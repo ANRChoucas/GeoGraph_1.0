@@ -10,7 +10,7 @@ Institute: IGN + ANR
 
 Développeur: Véronique Gendner
 
-Encadrants: Marie-Dominique Van Damme, Véronique Gendner
+Encadrants: Marie-Dominique Van Damme, Ana-Maria Raimond
 
 
 # Plan
@@ -57,13 +57,30 @@ Puis y placer le plugin spatial téléchargé [ici](https://github.com/neo4j-con
 
 5. Ajouter les lignes suivantes aux settings de la base:
 ```cypher
-
+dbms.security.procedures.unrestricted=spatial.*
+apoc.import.file.enabled=true
+apoc.export.file.enabled=true
+cypher.lenient_create_relationship = true
 ```
 
 Ca y est la base est prête à être chargée
 
 ## Chargement des données
 
-Dans la fenêtre Neo4j desktop Cliquer sur start pour lancer la base de données.
+1. Dans la fenêtre Neo4j desktop Cliquer sur start pour lancer la base de données.
+
+2. Placer les sources dans le répertoire import de la BD
+
+3. Ouvrir browser
+
+4. Dans le browser, exécuter les scripts:
+
+| Script          | Données chargées |
+| --------------- | ------ |
+| 0_CONFIG.cypher | Créer des couches spatiales vides, les contraintes et les index de la base de données. |
+| 1_XXX.cypher    | Intégrer les différentes sources de données |
+
+
+
 
 
