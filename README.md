@@ -79,8 +79,20 @@ Ca y est la base est prête à être chargée
 | --------------- | ------ |
 | 0_CONFIG.cypher | Créer des couches spatiales vides, les contraintes et les index de la base de données. |
 | 1_XXX.cypher    | Intégrer les différentes sources de données |
+| 2_1_OOR_import_et_corrections.cypher | Intègre l’OOR |
+| 2_2_OOR_instanciation.cypher | Création des relations _:isInstanceOf_ entre les _:ObjetGeo_ en base et les classes de l’ontologie _:ClassOOR_ |
+| 2.3.selectionClass.import.cypher créer les noeuds :ClassSelection et les rattachent par une relation :isEquivalentTo à la :ClassOOR correspondante |
+| 3.1.appariements multicriteres POI et ITI.cypher | importe la sélection des appariements calculés sur les données 2018, si les objet 2021 ont le même nom, le même type et la même géométrie |
 
 
+## Affichage de GeoGraph dans QGis
+
+Le script _QgisQueryGeoGraph.py_ permet d'afficher des résultats de requête cypher dans QGis 
+en tant que couche de données spatiales. Le script n'est pas robuste, il s'adresse aux personnes 
+qui savent modifier du python.
+
+
+## Affichage de GeoGraph dans Bloom
 
 
 
