@@ -26,7 +26,7 @@ L'intégration s'appuie sur une ontologie des objets géographiques pouvant serv
 
 # Modélisation
 
-![png](https://raw.githubusercontent.com/ANRChoucas/GeoGraph_1.0/main/img/modele_geograph_2_0.png)
+![png](https://github.com/ANRChoucas/GeoGraph_1.0/blob/main/img/modele_geograph_2_0.png)
 
 
 # Installation
