@@ -75,14 +75,20 @@ Ca y est la base est prête à être chargée
 
 4. Dans le browser, exécuter les scripts:
 
-| Script          | Données chargées |
-| --------------- | ------ |
+| Script          | Données chargées                                                                       |
+| --------------- | -------------------------------------------------------------------------------------- |
 | 0_CONFIG.cypher | Créer des couches spatiales vides, les contraintes et les index de la base de données. |
-| 1_XXX.cypher    | Intégrer les différentes sources de données |
+| 1_XXX.cypher    | Intégrer les différentes sources de données  |
+
 | 2_1_OOR_import_et_corrections.cypher | Intègre l’OOR |
 | 2_2_OOR_instanciation.cypher | Création des relations _:isInstanceOf_ entre les _:ObjetGeo_ en base et les classes de l’ontologie _:ClassOOR_ |
 | 2.3.selectionClass.import.cypher créer les noeuds :ClassSelection et les rattachent par une relation :isEquivalentTo à la :ClassOOR correspondante |
 | 3.1.appariements multicriteres POI et ITI.cypher | importe la sélection des appariements calculés sur les données 2018, si les objet 2021 ont le même nom, le même type et la même géométrie |
+
+
+Les données importées concernent les données du département de l'Isère (38):
+* la zone d'étude du projet CHOUCAS, les massifs alpins de la zone d'étude. Ces données ont été construites dans le cadre de ce projet.
+* 
 
 
 ## Affichage de GeoGraph dans QGis
