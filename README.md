@@ -10,6 +10,7 @@ Encadrants: Marie-Dominique Van Damme, Véronique Gendner
 
 # Plan
 - [Introduction](#Introduction)
+- [Modélisation](#Modélisation)
 - [Installation](#Installation)
 
 
@@ -22,6 +23,10 @@ L'intégration s'appuie sur une ontologie des objets géographiques pouvant serv
 
 > Ref: papier à l'ICC
 
+
+# Modélisation
+
+![png](https://raw.githubusercontent.com/ANRChoucas/GeoGraph_1.0/main/img/modele_geograph_2_0.png)
 
 
 # Installation
