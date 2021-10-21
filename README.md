@@ -92,7 +92,7 @@ en tant que couche de données spatiales. Le script n'est pas robuste, il s'adre
 qui savent modifier du python.
 
 
-## Affichage de GeoGraph dans Bloom
+
 
 
 
