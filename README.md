@@ -31,10 +31,10 @@ et de proposer une méthode d’intégration sémantique de données géographiq
 
 L'intégration s'appuie sur une ontologie des objets géographiques pouvant servir d'objets de référence, 
 l'ontologie des objets de repères [OOR](http://choucas.ign.fr/doc/ontologies/index-fr.html). 
-Pour y arriver, un travail d’appariement des schémas des sources de données sur l’ontologie des objets 
+Pour y arriver, un travail d’appariement des schémas des différentes sources de données sur l’ontologie des objets 
 de repère a été réalisée.
 
-> Ref: papier à l'ICC
+> Ref: papier à l'ICC 2021
 
 
 # Modélisation
@@ -48,7 +48,7 @@ de repère a été réalisée.
 
 1. Télécharger et installer Neo4j desktop depuis le site de [neo4j](https://neo4j.com/download)
 
-2. Créer une base Neo4j 4.3.3
+2. Créer une base Neo4j 4.3.3 "GeoGraph_1_0"
 
 3. Installer le plugin APOC avec l'installeur des plugins de Neo4j
 
@@ -63,22 +63,29 @@ apoc.export.file.enabled=true
 cypher.lenient_create_relationship = true
 ```
 
-Ca y est la base est prête à être chargée
+Ca y est, maintenant la base est prête à être chargée.
 
-## Chargement des données
+## 1ère option - Chargement des données
 
-1. Dans la fenêtre Neo4j desktop Cliquer sur start pour lancer la base de données.
+1. Dans la fenêtre Neo4j Desktop, cliquer sur _start_ pour lancer la base de données.
 
-2. Placer les sources dans le répertoire import de la BD
+2. Placer les sources, c'est à dire les fichiers CSV du répertoire _data_ dans le répertoire _import_ de la base de données 
+(clic sur "..." puis sur "Open folder")
 
-3. Ouvrir browser
+3. Ouvrir l'application Neo4j Browser
 
-4. Dans le browser, exécuter les scripts:
+4. Exécuter les scripts de chargement:
 
 | Script          | Données chargées                                                                       |
 | --------------- | -------------------------------------------------------------------------------------- |
-| 0_CONFIG.cypher | Créer des couches spatiales vides, les contraintes et les index de la base de données. |
-| 1_XXX.cypher    | Intégrer les différentes sources de données  |
+| 0_CONFIG.cypher                   | Créer des couches spatiales vides, les contraintes et les index de la base de données. |
+| 1_DATA_MASSIF_ZE.cypher           | Intégrer les contours des massifs  |
+| 2_1_PNR_VERCORS_2018.cypher       | Intégrer les POI du site https://rando.parc-du-vercors.fr |
+| 2_2_PN_ECRINS_2018.cypher         | Intégrer les POI du site https://rando.ecrins-parcnational.fr/ |
+| 2_3_REFUGES_INFO_2018.cypher      | Intégrer les POI du site https://www.refuges.info/ |
+| 2_4_ITI_PARCS_2018.cypher         | Intégrer les itinéraires des parcs (Vercors et Ecrins) recalés sur le réseau de la BDTOPO.  |
+| 2_5_ITI_VISORANDO_2018.cypher     | Intégrer les itinéraires de https://www.visorando.com/ recalés sur le réseau de la BDTOPO.  |
+| 2_6_C2C_2021.cypher               | Intégrer les POIS et les route du site https://www.camptocamp.org/ |
 
 | 2_1_OOR_import_et_corrections.cypher | Intègre l’OOR |
 | 2_2_OOR_instanciation.cypher | Création des relations _:isInstanceOf_ entre les _:ObjetGeo_ en base et les classes de l’ontologie _:ClassOOR_ |
@@ -87,7 +94,8 @@ Ca y est la base est prête à être chargée
 
 
 Les données importées concernent les données du département de l'Isère (38):
-* la zone d'étude du projet CHOUCAS, les massifs alpins de la zone d'étude. Ces données ont été construites dans le cadre de ce projet.
+* la zone d'étude du projet CHOUCAS, les massifs alpins de la zone d'étude. 
+Ces données ont été construites dans le cadre de ce projet.
 * 
 
 

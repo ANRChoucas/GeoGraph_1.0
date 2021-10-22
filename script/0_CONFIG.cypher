@@ -1,9 +1,10 @@
-//  création des couches spatiales (nécessite le plugin spatial)
+//  Création des couches spatiales (nécessite le plugin spatial)
 CALL spatial.addLayer("points","wkt","WKT");
 CALL spatial.addLayer("lines","wkt","WKT");
 CALL spatial.addLayer("polygons","wkt","WKT");
 
 // contraintes
+CREATE CONSTRAINT ON (o:v2018) ASSERT o.id IS UNIQUE;
 CREATE CONSTRAINT ON (o:v2021) ASSERT o.id IS UNIQUE;
 CREATE CONSTRAINT ON (o:ObjetGeo) ASSERT exists(o.name);
 CREATE CONSTRAINT ON (o:ObjetGeo) ASSERT exists(o.id);

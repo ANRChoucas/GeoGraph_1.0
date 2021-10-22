@@ -1,6 +1,6 @@
 
 // MASSIFS
-:param importFile =>"0_MASSIFS_DEP_38.csv";
+:param importFile =>"1_1_MASSIFS.csv";
 call apoc.load.csv($importFile) YIELD map
 call spatial.addWKT("polygons",map.WKT) yield node 
 with node, map
@@ -16,7 +16,7 @@ on create set node:geom:Tech, node.creationDateTime=localdatetime({ timezone: 'E
  
 
 // ZONE ETUDE
-:param importFile =>"1_ZONE_ETUDE_DEP_38.csv";
+:param importFile =>"1_2_ZONE_ETUDE.csv";
 call apoc.load.csv($importFile) YIELD map
 call spatial.addWKT("polygons",map.WKT) yield node 
 with map,node
