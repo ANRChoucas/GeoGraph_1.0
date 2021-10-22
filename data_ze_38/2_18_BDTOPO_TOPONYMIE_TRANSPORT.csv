@@ -1,0 +1,907 @@
+WKT,ID,CLASSE,NATURE,GRAPHIE
+"MULTIPOINT ((5.70253410235828 45.1374375517425))",EQ_RESEA0000002204779445,Equipement de transport,Parking,etoile
+"MULTIPOINT ((5.41866980966446 45.1254975778644))",EQ_RESEA0000000229947394,Equipement de transport,Parking,parking de clot michelet
+"MULTIPOINT ((5.5082882804562 45.1077309923268))",EQ_RESEA0000002205496201,Equipement de transport,Parking,champ des narces
+"MULTIPOINT ((5.63760714163076 45.2956088632504))",EQ_RESEA0000000130194197,Equipement de transport,Parking,parking sérand
+"MULTIPOINT ((5.67882963388433 45.2954858419679))",EQ_RESEA0000000007459178,Equipement de transport,Carrefour,les quatre chemins
+"MULTIPOINT ((5.62419082347031 45.2780576184582))",EQ_RESEA0000000007459196,Equipement de transport,Aire de repos ou de service,aire de service de voreppe
+"MULTIPOINT ((5.63644378513696 45.2979994591968))",EQ_RESEA0000000230201278,Equipement de transport,Carrefour,rond-point de la paix
+"MULTIPOINT ((5.63530717955822 45.2917557124327))",EQ_RESEA0000000130194322,Equipement de transport,Parking,parking nardan
+"MULTIPOINT ((5.88715928919103 45.3078840526716))",EQ_RESEA0000000007459155,Equipement de transport,Gare voyageurs uniquement,gare de saint-hilaire
+"MULTIPOINT ((5.89820211925155 45.2999143485774))",EQ_RESEA0000000007459153,Equipement de transport,Gare voyageurs uniquement,gare de montfort
+"MULTIPOINT ((5.63441858659431 45.2972039024419))",EQ_RESEA0000002205879921,Equipement de transport,Parking,saint-jean
+"MULTIPOINT ((6.08010319928596 45.3692330532085))",EQ_RESEA0000000007459050,Equipement de transport,Carrefour,carrefour du jeu de paume
+"MULTIPOINT ((5.91883188815724 45.3548046101058))",EQ_RESEA0000000329053415,Equipement de transport,Parking,place du habert saint-michel
+"MULTIPOINT ((5.81711583612542 45.3415389853876))",EQ_RESEA0000000205999621,Equipement de transport,Parking,parking du bourg
+"MULTIPOINT ((5.77093351054747 45.1922829429172))",EQ_RESEA0000000007459275,Equipement de transport,Station de tramway,bibliothèques universitaires
+"MULTIPOINT ((5.70846717483515 45.1366503462837))",EQ_RESEA0000002206404735,Equipement de transport,Station de tramway,edmée chandon
+"MULTIPOINT ((5.70258012816529 45.1380995240516))",EQ_RESEA0000002206404734,Equipement de transport,Station de tramway,l'étoile
+"MULTIPOINT ((6.07666545066713 45.3924407802938))",EQ_RESEA0000000220880855,Equipement de transport,Parking,parc des froges
+"MULTIPOINT ((6.07666545066713 45.3924407802938))",EQ_RESEA0000000220880855,Equipement de transport,Parking,parc des forges
+"MULTIPOINT ((5.63657286344757 45.2957638877846))",EQ_RESEA0000000239037279,Equipement de transport,Parking,petits jardins
+"MULTIPOINT ((5.74248044674335 45.0854166521407))",EQ_RESEA0000000007459471,Equipement de transport,Gare voyageurs et fret,gare de jarrie-vizille
+"MULTIPOINT ((5.69985529820356 45.1251632728621))",EQ_RESEA0000000007459408,Equipement de transport,Gare voyageurs et fret,gare du pont-de-claix
+"MULTIPOINT ((5.80587679594038 45.3223594494616))",EQ_RESEA0000002206993869,Equipement de transport,Parking,école
+"MULTIPOINT ((5.78474265312336 45.1848823940002))",EQ_RESEA0000000007459274,Equipement de transport,Gare voyageurs et fret,gare de grenoble universités gières
+"MULTIPOINT ((5.90141996144353 45.2624385313298))",EQ_RESEA0000000007459213,Equipement de transport,Gare voyageurs et fret,gare de brignoud
+"MULTIPOINT ((5.7253760599105 45.1918818954878))",EQ_RESEA0000000130194229,Equipement de transport,Parking,parking de philippeville
+"MULTIPOINT ((5.7253760599105 45.1918818954878))",EQ_RESEA0000000130194229,Equipement de transport,Parking,parking grenette téléphérique
+"MULTIPOINT ((5.76713560785815 45.076280480932))",EQ_RESEA0000002207017091,Equipement de transport,Carrefour,rond-point muzet
+"MULTIPOINT ((6.00786070436152 45.4340893835394))",EQ_RESEA0000000007459002,Equipement de transport,Gare voyageurs et fret,gare de pontcharra sur breda
+"MULTIPOINT ((5.63212355769446 45.2904144183289))",EQ_RESEA0000000007459179,Equipement de transport,Gare voyageurs et fret,gare de voreppe
+"MULTIPOINT ((5.70168918070446 45.0440827074065))",EQ_RESEA0000002200387530,Equipement de transport,Arrêt voyageurs,halte ferroviaire de saint-georges-de-commiers
+"MULTIPOINT ((5.67126872234218 45.2357235096273))",EQ_RESEA0000000007459241,Equipement de transport,Gare voyageurs et fret,gare de saint-égrève saint-robert
+"MULTIPOINT ((5.97410909123452 45.3419423463138))",EQ_RESEA0000000007459088,Equipement de transport,Gare voyageurs uniquement,gare de goncelin
+"MULTIPOINT ((5.68545574495711 45.0476637473899))",EQ_RESEA0000000007459535,Equipement de transport,Gare voyageurs et fret,gare de vif
+"MULTIPOINT ((5.73236960304828 45.1892197831294))",EQ_RESEA0000000130194174,Equipement de transport,Parking,place verdun
+"MULTIPOINT ((5.71907074202382 45.153081780023))",EQ_RESEA0000000007459348,Equipement de transport,Arrêt voyageurs,halte ferroviaire d'échirolles
+"MULTIPOINT ((5.75384655743541 45.1472743595669))",EQ_RESEA0000000207626408,Equipement de transport,Parking,parking relais verderet
+"MULTIPOINT ((5.24381500162123 45.0714367146601))",EQ_RESEA0000000007459516,Equipement de transport,Arrêt voyageurs,arrêt de saint-hilaire-saint-nazaire
+"MULTIPOINT ((6.07791245870137 45.0558122402577))",EQ_RESEA0000002203891940,Equipement de transport,Parking,place des orgières
+"MULTIPOINT ((5.83863314068697 45.2017655242499))",EQ_RESEA0000000130194139,Equipement de transport,Parking,place stalingrad
+"MULTIPOINT ((6.03262221424004 45.0538746712784))",EQ_RESEA0000000130194129,Equipement de transport,Parking,parking vénéon
+"MULTIPOINT ((5.37602659764331 45.0993450696983))",EQ_RESEA0000000007459477,Equipement de transport,Carrefour,la croix bernard
+"MULTIPOINT ((5.62165197220187 45.2829290546156))",EQ_RESEA0000000007459195,Equipement de transport,Péage,péage de voreppe
+"MULTIPOINT ((5.88087998283313 45.2345469795913))",EQ_RESEA0000000007459236,Equipement de transport,Arrêt voyageurs,halte ferroviaire de lancey
+"MULTIPOINT ((6.02432653083332 45.4381722314599))",EQ_RESEA0000000354084717,Equipement de transport,Parking,pl marcel giraud
+"MULTIPOINT ((6.08308693219477 45.0502932756977))",EQ_RESEA0000000289380957,Equipement de transport,Parking,parking des cours
+"MULTIPOINT ((5.70235588081175 45.180120237605))",EQ_RESEA0000000316801155,Equipement de transport,Carrefour,échangeur numéro 3 de grenoble centre
+"MULTIPOINT ((5.70235588081175 45.180120237605))",EQ_RESEA0000000316801155,Equipement de transport,Carrefour,échangeur numéro 3 de catane
+"MULTIPOINT ((5.68601193942788 45.2094007135404))",EQ_RESEA0000000316801181,Equipement de transport,Carrefour,échangeur numéro 1 de sassenage
+"MULTIPOINT ((5.68601193942788 45.2094007135404))",EQ_RESEA0000000316801181,Equipement de transport,Carrefour,échangeur des martyrs ouest
+"MULTIPOINT ((5.79197851835879 45.2113837629124))",EQ_RESEA0000000129648452,Equipement de transport,Carrefour,rond-point de bavière
+"MULTIPOINT ((6.07200435298826 45.0926112785667))",EQ_RESEA0000000129648523,Equipement de transport,Carrefour,rond-point du tour de france
+"MULTIPOINT ((5.67714946591941 45.0526962228434))",EQ_RESEA0000000296528764,Equipement de transport,Carrefour,rond-point général de gaulle
+"MULTIPOINT ((6.00702606066966 45.4575150451669))",EQ_RESEA0000000007458989,Equipement de transport,Aire de repos ou de service,aire de repos de chapareillan
+"MULTIPOINT ((5.95304417149461 45.3248323432882))",EQ_RESEA0000000007459128,Equipement de transport,Aire de repos ou de service,aire de repos de chonas
+"MULTIPOINT ((5.9550723633557 45.3284538207526))",EQ_RESEA0000000007459129,Equipement de transport,Aire de repos ou de service,aire de repos de la terrasse
+"MULTIPOINT ((5.62282875228404 45.276477814951))",EQ_RESEA0000000007459197,Equipement de transport,Aire de repos ou de service,aire de service de l'île rose
+"MULTIPOINT ((5.86696820387661 45.247102870213))",EQ_RESEA0000000007459222,Equipement de transport,Aire de repos ou de service,aire de service de bois claret
+"MULTIPOINT ((5.86231337289431 45.2441803685804))",EQ_RESEA0000000007459223,Equipement de transport,Aire de repos ou de service,aire de service de saint-nazaire-les-eymes
+"MULTIPOINT ((5.70184451882962 45.1680545940235))",EQ_RESEA0000000007459333,Equipement de transport,Carrefour,échangeur numéro 4 des eaux claires
+"MULTIPOINT ((5.70184451882962 45.1680545940235))",EQ_RESEA0000000007459333,Equipement de transport,Carrefour,échangeur numéro 4 louise michel
+"MULTIPOINT ((5.69056321506106 45.1354458503695))",EQ_RESEA0000000007459377,Equipement de transport,Carrefour,échangeur numéro 7 du pont-de-claix
+"MULTIPOINT ((5.76510647664496 45.2016867184297))",EQ_RESEA0000000130370817,Equipement de transport,Carrefour,échangeur numéro 27 de la tronche-meylan
+"MULTIPOINT ((5.68688176943059 45.1197972349638))",EQ_RESEA0000000130370821,Equipement de transport,Carrefour,échangeur numéro 9 de claix
+"MULTIPOINT ((5.7009880400538 45.1590902631308))",EQ_RESEA0000000130370832,Equipement de transport,Carrefour,échangeur numéro 5 de rondeau
+"MULTIPOINT ((5.68031906998334 45.2156197603121))",EQ_RESEA0000000130370833,Equipement de transport,Carrefour,échangeur a48-a480
+"MULTIPOINT ((5.88493771402624 45.273176637049))",EQ_RESEA0000000129648571,Equipement de transport,Carrefour,rond-point du pré blanc
+"MULTIPOINT ((5.88112884798423 45.2748615921391))",EQ_RESEA0000000217204819,Equipement de transport,Carrefour,rond-point du moulin
+"MULTIPOINT ((5.8970204218375 45.2960389398604))",EQ_RESEA0000000216463242,Equipement de transport,Carrefour,rond-point du coteau
+"MULTIPOINT ((5.99931963577935 45.3874539961154))",EQ_RESEA0000000129648446,Equipement de transport,Carrefour,rond-point des meyannes
+"MULTIPOINT ((5.49791159907713 45.2422946996289))",EQ_RESEA0000000129696199,Equipement de transport,Aire de repos ou de service,aire de repos de poliénas
+"MULTIPOINT ((5.8881893751894 45.2718492400626))",EQ_RESEA0000000129648554,Equipement de transport,Carrefour,rond-point du pré roux
+"MULTIPOINT ((5.64776179633426 44.9617155668579))",EQ_RESEA0000000007459650,Equipement de transport,Aire de repos ou de service,aire de repos des jaillets
+"MULTIPOINT ((5.64864372818175 44.9620540074982))",EQ_RESEA0000000087804610,Equipement de transport,Aire de repos ou de service,aire de repos des marceaux
+"MULTIPOINT ((5.66679426219563 45.2108901972729))",EQ_RESEA0000000129648486,Equipement de transport,Carrefour,place du lac
+"MULTIPOINT ((5.68180972069572 45.1214175923202))",EQ_RESEA0000000120907504,Equipement de transport,Carrefour,giratoire de la chièze
+"MULTIPOINT ((5.66611367510734 45.2113443032846))",EQ_RESEA0000000129648453,Equipement de transport,Carrefour,place ondine
+"MULTIPOINT ((5.67777777993195 45.2404062044506))",EQ_RESEA0000000129648470,Equipement de transport,Carrefour,rond-point de l'europe
+"MULTIPOINT ((5.71140238596738 45.0524602567427))",EQ_RESEA0000000129648475,Equipement de transport,Carrefour,rond-point des isles
+"MULTIPOINT ((5.9961782634431 45.3881544249374))",EQ_RESEA0000000129648502,Equipement de transport,Carrefour,rond-point de belledonne
+"MULTIPOINT ((5.77996686633996 45.2142097970301))",EQ_RESEA0000000129648504,Equipement de transport,Carrefour,rond-point du gresivaudan
+"MULTIPOINT ((5.89175470062439 45.2703478398179))",EQ_RESEA0000000129648551,Equipement de transport,Carrefour,rond-point du rafour
+"MULTIPOINT ((5.89340930983153 45.2725269810259))",EQ_RESEA0000000130417232,Equipement de transport,Carrefour,rond-point belle étoile
+"MULTIPOINT ((6.07175109898283 45.0904331461576))",EQ_RESEA0000000220834300,Equipement de transport,Carrefour,rond-point du stade
+"MULTIPOINT ((6.06939393506921 45.0902007531716))",EQ_RESEA0000000220834301,Equipement de transport,Carrefour,rond-point du palais
+"MULTIPOINT ((5.68382715417845 45.0935531286391))",EQ_RESEA0000000257896215,Equipement de transport,Carrefour,rond-point de l'europe
+"MULTIPOINT ((5.68382715417845 45.0935531286391))",EQ_RESEA0000000257896215,Equipement de transport,Carrefour,car de l europe
+"MULTIPOINT ((5.54692890259533 45.0736254860633))",EQ_RESEA0000000258318466,Equipement de transport,Carrefour,carrefour bréduire
+"MULTIPOINT ((5.32000146464578 45.1107564721935))",EQ_RESEA0000000316108341,Equipement de transport,Carrefour,rond-point des gérins
+"MULTIPOINT ((5.29898804370141 45.0901991126318))",EQ_RESEA0000000316108340,Equipement de transport,Carrefour,rond-point de la croisée
+"MULTIPOINT ((5.63780531673286 44.7883493558401))",EQ_RESEA0000000321381483,Equipement de transport,Aire de repos ou de service,aire du trièves
+"MULTIPOINT ((5.88443104855508 45.2573964053897))",EQ_RESEA0000000323237898,Equipement de transport,Carrefour,demi-échangeur numéro 24c de bernin
+"MULTIPOINT ((5.85444823353174 45.0538481252324))",EQ_RESEA0000000327531585,Equipement de transport,Aire de repos ou de service,aire de gavet
+"MULTIPOINT ((6.06984720191846 45.0969959082578))",EQ_RESEA0000000328165417,Equipement de transport,Carrefour,rond-point des sports
+"MULTIPOINT ((5.87264694005795 45.2767557939036))",EQ_RESEA0000000342994050,Equipement de transport,Carrefour,rond-point de la croix des ayes
+"MULTIPOINT ((5.7483022383853 45.1987905913341))",EQ_RESEA0000002000680127,Equipement de transport,Carrefour,rond-point du samu
+"MULTIPOINT ((5.74453055807038 45.2003005924467))",EQ_RESEA0000002000680128,Equipement de transport,Carrefour,rond-point de la grotte
+"MULTIPOINT ((6.00946286185394 45.458848662347))",EQ_RESEA0000000129690458,Equipement de transport,Aire de repos ou de service,aire de repos des marches
+"MULTIPOINT ((5.78122869061246 45.1878707040021))",EQ_RESEA0000000130370818,Equipement de transport,Carrefour,échangeur numéro 1
+"MULTIPOINT ((6.07399323463043 45.0902388488947))",EQ_RESEA0000000129648562,Equipement de transport,Carrefour,rond-point de l'europe
+"MULTIPOINT ((5.45482208264872 45.2076679687747))",EQ_RESEA0000000129699431,Equipement de transport,Aire de repos ou de service,aire de repos de l'albenc
+"MULTIPOINT ((5.66132333197728 45.2132045810162))",EQ_RESEA0000000129648519,Equipement de transport,Carrefour,place jean prévost
+"MULTIPOINT ((5.66753213400158 45.2092085451998))",EQ_RESEA0000000129648532,Equipement de transport,Carrefour,rond-point jean moulin
+"MULTIPOINT ((5.74805222278245 45.1670594695))",EQ_RESEA0000000129648538,Equipement de transport,Carrefour,place alexandre ribot
+"MULTIPOINT ((5.75911553575602 45.1586453492019))",EQ_RESEA0000000129648454,Equipement de transport,Carrefour,place des roseaux
+"MULTIPOINT ((5.79171062447824 45.2088830207213))",EQ_RESEA0000000129648482,Equipement de transport,Carrefour,rond-point de didcot
+"MULTIPOINT ((5.66494508518619 45.2118821268422))",EQ_RESEA0000000129648487,Equipement de transport,Carrefour,place de l'ovalie
+"MULTIPOINT ((5.83213901777532 45.2103750788566))",EQ_RESEA0000000129648496,Equipement de transport,Carrefour,rond-point jean moulin
+"MULTIPOINT ((5.72671822506317 45.1493548772122))",EQ_RESEA0000000129648510,Equipement de transport,Carrefour,place du verseau
+"MULTIPOINT ((5.84975943699342 45.2397141911572))",EQ_RESEA0000000129648525,Equipement de transport,Carrefour,rond-point de la bâtie
+"MULTIPOINT ((5.68718708793797 45.1761097441036))",EQ_RESEA0000000129648539,Equipement de transport,Carrefour,rond-point san giovanni lupatoto
+"MULTIPOINT ((5.73676873918449 45.1972674943391))",EQ_RESEA0000000129648542,Equipement de transport,Carrefour,place docteur girard
+"MULTIPOINT ((5.75544576646847 45.1684574147852))",EQ_RESEA0000000129648543,Equipement de transport,Carrefour,rond-point nelson mandela
+"MULTIPOINT ((5.72027476085549 45.1602334477824))",EQ_RESEA0000000129648555,Equipement de transport,Carrefour,rond-point pierre et marie curie
+"MULTIPOINT ((5.66564230103962 45.2108420235425))",EQ_RESEA0000000129648561,Equipement de transport,Carrefour,place charles de gaulle
+"MULTIPOINT ((5.73542009203527 45.1511914782862))",EQ_RESEA0000000130370804,Equipement de transport,Carrefour,échangeur numéro 6
+"MULTIPOINT ((5.71680821228056 45.152977927815))",EQ_RESEA0000000130370820,Equipement de transport,Carrefour,échangeur jacques duclos
+"MULTIPOINT ((5.74700119187489 45.1561288136407))",EQ_RESEA0000000130370823,Equipement de transport,Carrefour,échangeur numéro 5
+"MULTIPOINT ((5.71111344394359 45.1579473254605))",EQ_RESEA0000000130370824,Equipement de transport,Carrefour,échangeur du rondeau
+"MULTIPOINT ((5.75783656837447 45.1661657641281))",EQ_RESEA0000000130370831,Equipement de transport,Carrefour,échangeur numéro 4
+"MULTIPOINT ((5.77910636993574 45.1818897403329))",EQ_RESEA0000000130370842,Equipement de transport,Carrefour,échangeur numéro 2
+"MULTIPOINT ((5.73366394538694 45.159092617871))",EQ_RESEA0000002004412574,Equipement de transport,Carrefour,rond-point jean mermoz
+"MULTIPOINT ((5.75869410375515 45.2007164330945))",EQ_RESEA0000000130363977,Equipement de transport,Carrefour,carrefour de l'europe
+"MULTIPOINT ((5.62254998970532 45.2800497893147))",EQ_RESEA0000000130370858,Equipement de transport,Carrefour,échangeur numéro 12 de veurey
+"MULTIPOINT ((5.6621609065253 45.2359134383925))",EQ_RESEA0000000130370859,Equipement de transport,Carrefour,échangeur numéro 14 de saint-égrève
+"MULTIPOINT ((5.79424810248578 45.2065878092761))",EQ_RESEA0000000130370862,Equipement de transport,Carrefour,échangeur numéro 26 de meylan est
+"MULTIPOINT ((5.82187052630447 45.2228507865419))",EQ_RESEA0000000239318305,Equipement de transport,Carrefour,échangeur numéro 25 de montbonnot-domène
+"MULTIPOINT ((5.84717364641189 45.2400251963713))",EQ_RESEA0000000239318306,Equipement de transport,Carrefour,échangeur numéro 24.1 de saint-ismier-villard-bonnot
+"MULTIPOINT ((5.89603607490276 45.2673068182732))",EQ_RESEA0000000239318307,Equipement de transport,Carrefour,échangeur numéro 24 de crolles-brignoud
+"MULTIPOINT ((5.96567986268976 45.3437415689449))",EQ_RESEA0000000239318313,Equipement de transport,Carrefour,échangeur numéro 23 du touvet
+"MULTIPOINT ((5.99796442850722 45.4246806458068))",EQ_RESEA0000000239318314,Equipement de transport,Carrefour,échangeur numéro 22 de pontcharra
+"MULTIPOINT ((5.69657808850544 45.1503317355152))",EQ_RESEA0000000316801179,Equipement de transport,Carrefour,échangeur numéro 6 de comboire
+"MULTIPOINT ((5.70246327502627 45.1924695850917))",EQ_RESEA0000000316801182,Equipement de transport,Carrefour,échangeur numéro 2 de fontaine
+"MULTIPOINT ((5.70246327502627 45.1924695850917))",EQ_RESEA0000000316801182,Equipement de transport,Carrefour,échangeur numéro 2 de vercors
+"MULTIPOINT ((5.62701508427323 45.2703842719729))",EQ_RESEA0000000339200939,Equipement de transport,Carrefour,échangeur numéro 13 de voreppe
+"MULTIPOINT ((5.62103380224755 45.2972210766384))",EQ_RESEA0000000347640655,Equipement de transport,Carrefour,échangeur a48-a49
+"MULTIPOINT ((5.32497221278225 45.1357283175396))",EQ_RESEA0000000348862300,Equipement de transport,Carrefour,échangeur numéro 9 de saint-marcellin
+"MULTIPOINT ((5.42315496625759 45.1983255675649))",EQ_RESEA0000000348862317,Equipement de transport,Carrefour,échangeur numéro 10 de vinay
+"MULTIPOINT ((5.78337763618831 45.2044428927743))",EQ_RESEA0000000349097031,Equipement de transport,Carrefour,échangeur a41-n87
+"MULTIPOINT ((5.64644377182159 44.9629942040955))",EQ_RESEA0000000356666754,Equipement de transport,Carrefour,échangeur numéro 13 de sinard
+"MULTIPOINT ((5.66938956952636 45.0883529991921))",EQ_RESEA0000000356666755,Equipement de transport,Carrefour,échangeur numéro 11 de saint-paul-de-varces
+"MULTIPOINT ((5.67963449129675 45.0756303484518))",EQ_RESEA0000000356666757,Equipement de transport,Carrefour,échangeur numéro 12 de vif
+"MULTIPOINT ((5.68152716357856 45.1108088313149))",EQ_RESEA0000000356666758,Equipement de transport,Carrefour,échangeur numéro 10 de varces
+"MULTIPOINT ((5.69120835109447 45.1278579785543))",EQ_RESEA0000000356666776,Equipement de transport,Carrefour,échangeur numéro 8
+"MULTIPOINT ((5.73200215987618 45.1734674700465))",EQ_RESEA0000000128710648,Equipement de transport,Station de tramway,mc2 - maison de la culture
+"MULTIPOINT ((5.7321915747426 45.1590644604591))",EQ_RESEA0000000128710651,Equipement de transport,Station de tramway,grand-place
+"MULTIPOINT ((5.77908166913562 45.1846945734624))",EQ_RESEA0000000007459272,Equipement de transport,Station de tramway,mayencin-champ roman
+"MULTIPOINT ((5.6942489267173 45.1764728324515))",EQ_RESEA0000000007459308,Equipement de transport,Station de tramway,fauconnière
+"MULTIPOINT ((5.78551426002418 45.1854166801199))",EQ_RESEA0000000007459273,Equipement de transport,Station de tramway,gières gare-universités
+"MULTIPOINT ((5.77442474305916 45.189124478887))",EQ_RESEA0000000007459276,Equipement de transport,Station de tramway,condillac-universités
+"MULTIPOINT ((5.76446110667109 45.1922869002309))",EQ_RESEA0000000007459277,Equipement de transport,Station de tramway,gabriel fauré
+"MULTIPOINT ((5.75786029558753 45.1922771829475))",EQ_RESEA0000000007459278,Equipement de transport,Station de tramway,les taillés-universités
+"MULTIPOINT ((5.75874190611542 45.1910829970473))",EQ_RESEA0000000007459279,Equipement de transport,Station de tramway,hector berlioz-universités
+"MULTIPOINT ((5.75258258435342 45.187600810579))",EQ_RESEA0000000007459280,Equipement de transport,Station de tramway,péri-brossolette
+"MULTIPOINT ((5.75425821889613 45.1844337228623))",EQ_RESEA0000000007459281,Equipement de transport,Station de tramway,maison communale
+"MULTIPOINT ((5.69426042429666 45.1675262375218))",EQ_RESEA0000000007459334,Equipement de transport,Station de tramway,mas d'îles
+"MULTIPOINT ((5.75768851919202 45.1720635213924))",EQ_RESEA0000000007459306,Equipement de transport,Station de tramway,étienne grappe
+"MULTIPOINT ((5.75519367574003 45.1793771803226))",EQ_RESEA0000000007459307,Equipement de transport,Station de tramway,édouard vaillant
+"MULTIPOINT ((5.69625402406774 45.1802668449376))",EQ_RESEA0000000007459309,Equipement de transport,Station de tramway,seyssinet-pariset hôtel de ville
+"MULTIPOINT ((5.69418215364841 45.1721641044766))",EQ_RESEA0000000007459310,Equipement de transport,Station de tramway,grand pré
+"MULTIPOINT ((5.69047586289224 45.1663472370644))",EQ_RESEA0000000007459335,Equipement de transport,Station de tramway,le prisme
+"MULTIPOINT ((5.73352687113861 45.1572504455176))",EQ_RESEA0000000128710653,Equipement de transport,Station de tramway,polesud-alpexpo
+"MULTIPOINT ((5.70627163408479 45.1800641419088))",EQ_RESEA0000000128710640,Equipement de transport,Station de tramway,vallier-catane
+"MULTIPOINT ((5.71039179388205 45.1801250178088))",EQ_RESEA0000000128710641,Equipement de transport,Station de tramway,vallier-docteur calmette
+"MULTIPOINT ((5.71561961993122 45.1803038155114))",EQ_RESEA0000000128710642,Equipement de transport,Station de tramway,vallier-jaurès
+"MULTIPOINT ((5.72263914567502 45.1808333066686))",EQ_RESEA0000000128710643,Equipement de transport,Station de tramway,foch-ferrié
+"MULTIPOINT ((5.72812191562178 45.1823420076834))",EQ_RESEA0000000128710644,Equipement de transport,Station de tramway,gustave rivet
+"MULTIPOINT ((5.73190711207895 45.1854017792036))",EQ_RESEA0000000128710645,Equipement de transport,Station de tramway,chavant
+"MULTIPOINT ((5.73170800229282 45.1817482517183))",EQ_RESEA0000000128710646,Equipement de transport,Station de tramway,albert 1er de belgique
+"MULTIPOINT ((5.73182118618346 45.1789614126589))",EQ_RESEA0000000128710647,Equipement de transport,Station de tramway,mounier
+"MULTIPOINT ((5.7322297197681 45.1694022040537))",EQ_RESEA0000000128710649,Equipement de transport,Station de tramway,malherbe
+"MULTIPOINT ((5.73051440960917 45.1635303472194))",EQ_RESEA0000000128710650,Equipement de transport,Station de tramway,arlequin
+"MULTIPOINT ((5.73116419575996 45.1662785348248))",EQ_RESEA0000000128710652,Equipement de transport,Station de tramway,la bruyère
+"MULTIPOINT ((5.72790251924907 45.1569453760372))",EQ_RESEA0000000128710654,Equipement de transport,Station de tramway,les granges
+"MULTIPOINT ((5.72206176086287 45.1583598893974))",EQ_RESEA0000000128710655,Equipement de transport,Station de tramway,surieux
+"MULTIPOINT ((5.71920031844979 45.1559549244666))",EQ_RESEA0000000128710656,Equipement de transport,Station de tramway,essarts-la butte
+"MULTIPOINT ((5.7184447560135 45.1530317812462))",EQ_RESEA0000000128710657,Equipement de transport,Station de tramway,échirolles gare
+"MULTIPOINT ((5.71709390590001 45.145610269259))",EQ_RESEA0000000128710658,Equipement de transport,Station de tramway,marie curie
+"MULTIPOINT ((5.7179518716357 45.1486606779607))",EQ_RESEA0000000128710659,Equipement de transport,Station de tramway,la rampe-centre ville
+"MULTIPOINT ((5.71543700805343 45.1425371137733))",EQ_RESEA0000000128710660,Equipement de transport,Station de tramway,auguste delaune
+"MULTIPOINT ((5.71326537982065 45.1386512261748))",EQ_RESEA0000000128710661,Equipement de transport,Station de tramway,denis papin
+"MULTIPOINT ((5.73153835234662 45.1882456524206))",EQ_RESEA0000000128710662,Equipement de transport,Station de tramway,verdun-préfecture
+"MULTIPOINT ((5.7286425642133 45.1901524224996))",EQ_RESEA0000000128710663,Equipement de transport,Station de tramway,hubert dubedout
+"MULTIPOINT ((5.72499218041721 45.1897743492576))",EQ_RESEA0000000128710664,Equipement de transport,Station de tramway,victor hugo
+"MULTIPOINT ((5.72011184718366 45.1894374241471))",EQ_RESEA0000000128710665,Equipement de transport,Station de tramway,alsace-lorraine
+"MULTIPOINT ((5.71501675374648 45.1903080959265))",EQ_RESEA0000000128710666,Equipement de transport,Station de tramway,gares
+"MULTIPOINT ((5.71340806718835 45.1883923434213))",EQ_RESEA0000000128710667,Equipement de transport,Station de tramway,saint-bruno
+"MULTIPOINT ((5.71169683547894 45.1911915545399))",EQ_RESEA0000000128710668,Equipement de transport,Station de tramway,palais de justice
+"MULTIPOINT ((5.71119730684029 45.1949804673035))",EQ_RESEA0000000128710669,Equipement de transport,Station de tramway,cité internationale
+"MULTIPOINT ((5.70684995104713 45.1887857222029))",EQ_RESEA0000000128710670,Equipement de transport,Station de tramway,berriat-le magasin
+"MULTIPOINT ((5.69859827290087 45.1890870716449))",EQ_RESEA0000000128710671,Equipement de transport,Station de tramway,les fontainades le vog
+"MULTIPOINT ((5.69425865851472 45.1891910456143))",EQ_RESEA0000000128710672,Equipement de transport,Station de tramway,louis maisonnat
+"MULTIPOINT ((5.6874453921273 45.1912807262205))",EQ_RESEA0000000128710673,Equipement de transport,Station de tramway,fontaine hôtel de ville la source
+"MULTIPOINT ((5.68023532014129 45.1938199368498))",EQ_RESEA0000000128710674,Equipement de transport,Station de tramway,charles michels
+"MULTIPOINT ((5.67163101080448 45.1977626023482))",EQ_RESEA0000000128710675,Equipement de transport,Station de tramway,la poya
+"MULTIPOINT ((5.73064604843558 45.1913233482734))",EQ_RESEA0000000128710676,Equipement de transport,Station de tramway,sainte-claire les halles
+"MULTIPOINT ((5.73162467992401 45.1930087351632))",EQ_RESEA0000000128710677,Equipement de transport,Station de tramway,notre-dame musée
+"MULTIPOINT ((5.73668306298462 45.1972053880967))",EQ_RESEA0000000128710678,Equipement de transport,Station de tramway,île verte
+"MULTIPOINT ((5.74044708866074 45.2000330374351))",EQ_RESEA0000000128710679,Equipement de transport,Station de tramway,la tronche-hôpital
+"MULTIPOINT ((5.74556311503956 45.2003329587543))",EQ_RESEA0000000128710680,Equipement de transport,Station de tramway,michallon
+"MULTIPOINT ((5.75118162603209 45.198670994398))",EQ_RESEA0000000128710681,Equipement de transport,Station de tramway,grand sablon
+"MULTIPOINT ((5.78460632427559 45.1876039299547))",EQ_RESEA0000000128710682,Equipement de transport,Station de tramway,plaine des sports
+"MULTIPOINT ((5.73786327551919 45.1874995397574))",EQ_RESEA0000000128710683,Equipement de transport,Station de tramway,grenoble hôtel de ville
+"MULTIPOINT ((5.74454109491025 45.1870650991886))",EQ_RESEA0000000128710684,Equipement de transport,Station de tramway,flandrin-valmy
+"MULTIPOINT ((5.75677129131615 45.1867655585016))",EQ_RESEA0000000128710685,Equipement de transport,Station de tramway,neyrpic-belledonne
+"MULTIPOINT ((5.75729900042267 45.1751153165565))",EQ_RESEA0000000128710686,Equipement de transport,Station de tramway,parc jo blanchon
+"MULTIPOINT ((5.71435399753509 45.1741076438815))",EQ_RESEA0000000337169164,Equipement de transport,Station de tramway,alliés
+"MULTIPOINT ((5.70680796080889 45.2077498226498))",EQ_RESEA0000000337169158,Equipement de transport,Station de tramway,saint-martin le vinoux - hôtel de ville
+"MULTIPOINT ((5.71687353559321 45.1988273786735))",EQ_RESEA0000000337169159,Equipement de transport,Station de tramway,casamaures village
+"MULTIPOINT ((5.71689299864759 45.1956573549612))",EQ_RESEA0000000337169160,Equipement de transport,Station de tramway,esplanade centre
+"MULTIPOINT ((5.71949646077311 45.189353967616))",EQ_RESEA0000000337169161,Equipement de transport,Station de tramway,alsace-lorraine
+"MULTIPOINT ((5.71821915649446 45.185592977576))",EQ_RESEA0000000337169162,Equipement de transport,Station de tramway,condorcet
+"MULTIPOINT ((5.71617371236022 45.1795172962935))",EQ_RESEA0000000337169163,Equipement de transport,Station de tramway,vallier-libération
+"MULTIPOINT ((5.71265054442026 45.1690474271762))",EQ_RESEA0000000337169165,Equipement de transport,Station de tramway,louise michel
+"MULTIPOINT ((5.70413069851215 45.2024522442958))",EQ_RESEA0000000337532692,Equipement de transport,Station de tramway,cea-cambridge
+"MULTIPOINT ((5.69947151163894 45.2060359623338))",EQ_RESEA0000000337538843,Equipement de transport,Station de tramway,presqu'île
+"MULTIPOINT ((5.66657280306758 45.2482493162015))",EQ_RESEA0000000352986846,Equipement de transport,Station de tramway,rafour
+"MULTIPOINT ((5.67101161953392 45.2425042940727))",EQ_RESEA0000000352986847,Equipement de transport,Station de tramway,karben
+"MULTIPOINT ((5.66170274552499 45.2548035544379))",EQ_RESEA0000000352986845,Equipement de transport,Station de tramway,palluel
+"MULTIPOINT ((5.67278603165222 45.2400707564381))",EQ_RESEA0000000352986848,Equipement de transport,Station de tramway,les bonnais
+"MULTIPOINT ((5.67592860082145 45.2354367551363))",EQ_RESEA0000000352986849,Equipement de transport,Station de tramway,la pinéa saint-robert
+"MULTIPOINT ((5.68260535334324 45.2298664469375))",EQ_RESEA0000000352986850,Equipement de transport,Station de tramway,pont de vence
+"MULTIPOINT ((5.68643648242361 45.2258696739803))",EQ_RESEA0000000352986851,Equipement de transport,Station de tramway,le muret
+"MULTIPOINT ((5.68896879328201 45.2229860738873))",EQ_RESEA0000000352986852,Equipement de transport,Station de tramway,fiancey-prédieu
+"MULTIPOINT ((5.69374800338163 45.217494955788))",EQ_RESEA0000000352986853,Equipement de transport,Station de tramway,néron
+"MULTIPOINT ((5.6984705911942 45.2138533908069))",EQ_RESEA0000000352986854,Equipement de transport,Station de tramway,horloge
+"MULTIPOINT ((5.60492940487049 44.827172617353))",EQ_RESEA0000000007459703,Equipement de transport,Arrêt voyageurs,gare de clelles-mens
+"MULTIPOINT ((5.60492940487049 44.827172617353))",EQ_RESEA0000000007459703,Equipement de transport,Arrêt voyageurs,halte ferroviaire de clelles mens
+"MULTIPOINT ((5.67882086459065 45.0454938325505))",EQ_RESEA0000000130240575,Equipement de transport,Péage,péage du crozet
+"MULTIPOINT ((5.44959013757065 45.1491533805966))",EQ_RESEA0000002012660867,Equipement de transport,Carrefour,carrefour de l'évêque
+"MULTIPOINT ((5.6729379575631 45.1717869230739))",EQ_RESEA0000000321100163,Equipement de transport,Parking,désert jean-jacques rousseau
+"MULTIPOINT ((5.85257969314583 45.122728000151))",EQ_RESEA0000000007459376,Equipement de transport,Carrefour,les trois chemins
+"MULTIPOINT ((5.54277482158365 45.1032299467844))",EQ_RESEA0000000007459451,Equipement de transport,Carrefour,les cinq chemins
+"MULTIPOINT ((5.33064544770058 45.0833945480285))",EQ_RESEA0000000007459499,Equipement de transport,Carrefour,le beaugey
+"MULTIPOINT ((5.49694048870724 45.0091015560103))",EQ_RESEA0000000007459632,Equipement de transport,Carrefour,fleur du roy
+"MULTIPOINT ((5.55116216205572 44.8980457377457))",EQ_RESEA0000000359090427,Equipement de transport,Parking,parking de pierre blanche
+"MULTIPOINT ((5.48047163163248 44.7927356489905))",EQ_RESEA0000000007459712,Equipement de transport,Carrefour,les quatre chemins de jasneuf
+"MULTIPOINT ((5.54668894582573 45.1665873746522))",EQ_RESEA0000002009067739,Equipement de transport,Carrefour,les trois chemins
+"MULTIPOINT ((5.63420363886789 45.2917132413979))",EQ_RESEA0000000130193351,Equipement de transport,Parking,parking des arcades
+"MULTIPOINT ((5.84705827088547 45.2068421466517))",EQ_RESEA0000002003596460,Equipement de transport,Parking,p+r les arnauds
+"MULTIPOINT ((5.90933495206488 45.2590052355933))",EQ_RESEA0000000130194125,Equipement de transport,Parking,place jean moulin
+"MULTIPOINT ((5.66629548935865 45.2397663610291))",EQ_RESEA0000002007243547,Equipement de transport,Carrefour,carrefour san marino
+"MULTIPOINT ((6.17376165200567 45.0726900516581))",EQ_RESEA0000000257347031,Equipement de transport,Parking,parking beyer
+"MULTIPOINT ((5.83792987124735 45.1059840902768))",EQ_RESEA0000000007459444,Equipement de transport,Carrefour,le guâ
+"MULTIPOINT ((5.90987812060679 45.1786422063724))",EQ_RESEA0000000007459271,Equipement de transport,Carrefour,les quatre chemins
+"MULTIPOINT ((5.67150124947585 45.0513913272927))",EQ_RESEA0000000318970119,Equipement de transport,Parking,esplanade jean couturier
+"MULTIPOINT ((5.90085556612032 45.2720348440174))",EQ_RESEA0000000130237302,Equipement de transport,Péage,péage de crolles
+"MULTIPOINT ((5.91028453355038 45.2586948802211))",EQ_RESEA0000000130194232,Equipement de transport,Parking,place alfred fredet
+"MULTIPOINT ((5.4345625578094 45.1304756363905))",EQ_RESEA0000000007459417,Equipement de transport,Carrefour,carrefour de patente
+"MULTIPOINT ((6.16772041502152 45.0718942364213))",EQ_RESEA0000000321297554,Equipement de transport,Parking,parking sainte-anne
+"MULTIPOINT ((5.94776104599939 44.8194786048602))",EQ_RESEA0000000130192932,Equipement de transport,Parking,parking
+"MULTIPOINT ((5.69077217649299 45.1657810610753))",EQ_RESEA0000000121816381,Equipement de transport,Parking,parking relais le prisme
+"MULTIPOINT ((5.72335329702955 45.1641941369019))",EQ_RESEA0000000130193373,Equipement de transport,Parking,parking des maquis de l'oisans
+"MULTIPOINT ((5.55336438490021 45.0732304290377))",EQ_RESEA0000000130193519,Equipement de transport,Parking,fichetere
+"MULTIPOINT ((5.77463837136321 45.0803157093338))",EQ_RESEA0000000130193557,Equipement de transport,Parking,chantefeuille
+"MULTIPOINT ((5.63641145035582 45.2976668737062))",EQ_RESEA0000000130193710,Equipement de transport,Parking,place debelle
+"MULTIPOINT ((5.55593909255022 45.0665572456517))",EQ_RESEA0000000130194123,Equipement de transport,Parking,parking des violettes
+"MULTIPOINT ((5.90793952866146 45.2577638774228))",EQ_RESEA0000000130194142,Equipement de transport,Parking,parking fredet
+"MULTIPOINT ((5.55370387435273 45.0705858209555))",EQ_RESEA0000000130194164,Equipement de transport,Parking,parking les bessonets
+"MULTIPOINT ((5.74745584351696 45.186154690599))",EQ_RESEA0000000130194173,Equipement de transport,Parking,parking chabert
+"MULTIPOINT ((6.01780629683371 45.1283965923821))",EQ_RESEA0000000130194176,Equipement de transport,Parking,parking de la traverse
+"MULTIPOINT ((6.07012792891758 45.1277727451549))",EQ_RESEA0000000130194182,Equipement de transport,Parking,parking poutran
+"MULTIPOINT ((6.02769390333751 45.1424149619644))",EQ_RESEA0000000130194178,Equipement de transport,Parking,parking de cotteyssard
+"MULTIPOINT ((6.07530037840239 45.1320851694792))",EQ_RESEA0000000130194192,Equipement de transport,Parking,parking la pierre
+"MULTIPOINT ((6.07015751586951 45.1282648242403))",EQ_RESEA0000000130194198,Equipement de transport,Parking,parking la pâques
+"MULTIPOINT ((6.04142490694597 45.1331197820633))",EQ_RESEA0000000130194199,Equipement de transport,Parking,parking de la mairie
+"MULTIPOINT ((5.55522917889234 45.0711643309615))",EQ_RESEA0000000130194200,Equipement de transport,Parking,parking la poussignière
+"MULTIPOINT ((6.07244049593344 45.1302437962492))",EQ_RESEA0000000130194223,Equipement de transport,Parking,parking les sorbiers
+"MULTIPOINT ((6.04079763284065 45.1287522679112))",EQ_RESEA0000000130194236,Equipement de transport,Parking,parking de plan barbier
+"MULTIPOINT ((5.55486665417539 45.0703528605687))",EQ_RESEA0000000130194237,Equipement de transport,Parking,parking des laiches
+"MULTIPOINT ((6.03068423283223 45.0526997552317))",EQ_RESEA0000000130194241,Equipement de transport,Parking,parking de l'eau d'olle
+"MULTIPOINT ((6.02941123792937 45.0556709227644))",EQ_RESEA0000000130194242,Equipement de transport,Parking,parking sarenne
+"MULTIPOINT ((6.04235763839408 45.1328555511709))",EQ_RESEA0000000130194224,Equipement de transport,Parking,parking des grands champs
+"MULTIPOINT ((6.03046714169189 45.0547699724535))",EQ_RESEA0000000130194244,Equipement de transport,Parking,espace romanche
+"MULTIPOINT ((5.86272233074823 45.2161969021049))",EQ_RESEA0000000130194299,Equipement de transport,Parking,place de la liberté
+"MULTIPOINT ((5.92606399931235 45.2744747157234))",EQ_RESEA0000000130194320,Equipement de transport,Parking,place de la fontaine
+"MULTIPOINT ((6.07319202884577 45.1301600075972))",EQ_RESEA0000000130194355,Equipement de transport,Parking,parking le souget
+"MULTIPOINT ((6.07179760369401 45.1313311007918))",EQ_RESEA0000000130194356,Equipement de transport,Parking,parking les cheneviers
+"MULTIPOINT ((5.55454128140923 45.0708278706024))",EQ_RESEA0000000130194357,Equipement de transport,Parking,parking croix margot
+"MULTIPOINT ((5.54959280023527 45.0676927362482))",EQ_RESEA0000000130194358,Equipement de transport,Parking,parking des tennis
+"MULTIPOINT ((5.70499392325427 45.1805635615437))",EQ_RESEA0000000130194361,Equipement de transport,Parking,parking relais vallier catane
+"MULTIPOINT ((5.76195707954667 45.1780953273165))",EQ_RESEA0000000244554737,Equipement de transport,Parking,parking visiteurs
+"MULTIPOINT ((6.15572621373893 45.0494114379256))",EQ_RESEA0000000130196053,Equipement de transport,Parking,parking des clos
+"MULTIPOINT ((5.32734750432919 45.117254805515))",EQ_RESEA0000000130227083,Equipement de transport,Carrefour,place des quatres routes
+"MULTIPOINT ((5.83865711570747 45.1517690415899))",EQ_RESEA0000000130550616,Equipement de transport,Parking,parking de la mairie
+"MULTIPOINT ((5.90898903375043 45.259319693777))",EQ_RESEA0000000130554364,Equipement de transport,Parking,place du 19 mars 1962
+"MULTIPOINT ((5.71313629922883 45.1809488299565))",EQ_RESEA0000000219796848,Equipement de transport,Parking,parking irvoy
+"MULTIPOINT ((5.88603460588693 45.314144681977))",EQ_RESEA0000000221464635,Equipement de transport,Parking,parking des pistes
+"MULTIPOINT ((5.7122411110327 45.1932270903685))",EQ_RESEA0000000226867149,Equipement de transport,Parking,parking le doyen
+"MULTIPOINT ((5.58959262723738 45.1257669362021))",EQ_RESEA0000000230015514,Equipement de transport,Parking,saint-donat
+"MULTIPOINT ((5.73644217112446 45.1664132222472))",EQ_RESEA0000000231262849,Equipement de transport,Parking,le trident
+"MULTIPOINT ((5.73796225827653 45.1615963715485))",EQ_RESEA0000000244914111,Equipement de transport,Parking,parking des géants et troubadour
+"MULTIPOINT ((5.73661529855623 45.1606167481821))",EQ_RESEA0000000244914112,Equipement de transport,Parking,parking - village olympique
+"MULTIPOINT ((5.72179547467943 45.1830471275814))",EQ_RESEA0000000246497938,Equipement de transport,Parking,la caserne de bonne
+"MULTIPOINT ((5.97846262000505 45.3440004394218))",EQ_RESEA0000000246681404,Equipement de transport,Carrefour,carrefour marcel sorrel
+"MULTIPOINT ((5.74712418688276 45.198491634656))",EQ_RESEA0000000256892961,Equipement de transport,Parking,michallon
+"MULTIPOINT ((6.04057762228823 45.132802284518))",EQ_RESEA0000000289033686,Equipement de transport,Parking,parking de la mairie
+"MULTIPOINT ((5.54929480629573 44.8929210854781))",EQ_RESEA0000000296052076,Equipement de transport,Parking,parking du grand veymont
+"MULTIPOINT ((5.63289702951487 45.1656153103771))",EQ_RESEA0000000297836285,Equipement de transport,Parking,parking du tremplin
+"MULTIPOINT ((5.55576967660269 44.902146629215))",EQ_RESEA0000000321345966,Equipement de transport,Parking,parking du serre monet
+"MULTIPOINT ((5.62221712361051 44.8263400831189))",EQ_RESEA0000000321379914,Equipement de transport,Parking,parking du moulin
+"MULTIPOINT ((5.62464790487458 44.8276761649606))",EQ_RESEA0000000321379915,Equipement de transport,Parking,parking du château
+"MULTIPOINT ((6.07028195785194 45.1288615204974))",EQ_RESEA0000000323016217,Equipement de transport,Parking,parking le roubier
+"MULTIPOINT ((5.88134992295894 45.187100536181))",EQ_RESEA0000000323296984,Equipement de transport,Carrefour,carrefour des trois gastons
+"MULTIPOINT ((5.55600033012878 45.0660612668666))",EQ_RESEA0000000324279020,Equipement de transport,Parking,parking les gauchets
+"MULTIPOINT ((6.2920932248785 44.9318763098832))",EQ_RESEA0000000326576621,Equipement de transport,Parking,parking la bérarde
+"MULTIPOINT ((6.06617513009965 45.091907713593))",EQ_RESEA0000000327504286,Equipement de transport,Parking,parking du coulet
+"MULTIPOINT ((6.07838695032906 45.0887839382346))",EQ_RESEA0000000328165418,Equipement de transport,Parking,parking des bergers
+"MULTIPOINT ((5.72544372505563 45.2004690513897))",EQ_RESEA0000000329897642,Equipement de transport,Parking,parking du glacis de la bastille
+"MULTIPOINT ((5.8876532781599 45.2330826729104))",EQ_RESEA0000000335110546,Equipement de transport,Parking,espace bergès
+"MULTIPOINT ((6.12962487431721 45.0182288808474))",EQ_RESEA0000000337538849,Equipement de transport,Parking,parking de la meije
+"MULTIPOINT ((6.13028188995048 45.0195953708824))",EQ_RESEA0000000337538850,Equipement de transport,Parking,parking des écrins
+"MULTIPOINT ((6.1293451405563 45.0179520048733))",EQ_RESEA0000000337538848,Equipement de transport,Parking,parking du lautaret
+"MULTIPOINT ((6.07261922065257 45.1293503991017))",EQ_RESEA0000000343255224,Equipement de transport,Parking,parking de l'alpette
+"MULTIPOINT ((5.66099078206988 45.2537213607973))",EQ_RESEA0000000353436007,Equipement de transport,Parking,parking relais palluel
+"MULTIPOINT ((6.11752393852788 45.3962989456367))",EQ_RESEA0000000354084835,Equipement de transport,Parking,parking de fontaine terre
+"MULTIPOINT ((5.55105915192517 44.8945817595262))",EQ_RESEA0000000354635113,Equipement de transport,Parking,parking du 4 juillet 1944
+"MULTIPOINT ((5.5552116394134 44.8984102570085))",EQ_RESEA0000000354635114,Equipement de transport,Parking,parking des centaurées
+"MULTIPOINT ((5.67131721158212 45.2349452877884))",EQ_RESEA0000000356398853,Equipement de transport,Parking,parking relais gare sncf de saint-égrève
+"MULTIPOINT ((5.67308862470018 45.2298022323933))",EQ_RESEA0000000356398854,Equipement de transport,Parking,général sud
+"MULTIPOINT ((5.56848335481123 44.9024100500062))",EQ_RESEA0000000357702332,Equipement de transport,Parking,parking du bourg
+"MULTIPOINT ((5.74714465146262 45.1999714159302))",EQ_RESEA0000002000680124,Equipement de transport,Carrefour,carrefour des hospitaliers
+"MULTIPOINT ((5.9918023847046 45.3737772353373))",EQ_RESEA0000000007459051,Equipement de transport,Carrefour,carrefour des pérelles
+"MULTIPOINT ((5.69567089707396 45.1799692779144))",EQ_RESEA0000000130193312,Equipement de transport,Parking,parking relais hôtel de ville
+"MULTIPOINT ((5.73665175422714 45.1889572113381))",EQ_RESEA0000000130194153,Equipement de transport,Parking,place bir hakeim
+"MULTIPOINT ((5.75877024800786 45.1997401531227))",EQ_RESEA0000000130193581,Equipement de transport,Parking,parking relais carronnerie
+"MULTIPOINT ((5.74225369826592 45.1876025285174))",EQ_RESEA0000000130193622,Equipement de transport,Parking,parking valmy
+"MULTIPOINT ((5.78900520610946 45.2275839015925))",EQ_RESEA0000000130194035,Equipement de transport,Parking,parking de l'église
+"MULTIPOINT ((5.7291986483831 45.190450582263))",EQ_RESEA0000000130194120,Equipement de transport,Parking,parking lafayette
+"MULTIPOINT ((5.69292729531941 45.1749587214405))",EQ_RESEA0000000130194133,Equipement de transport,Parking,parking des îles
+"MULTIPOINT ((5.63720961824527 45.2979435639092))",EQ_RESEA0000000130194126,Equipement de transport,Parking,place de l'écluse
+"MULTIPOINT ((5.88193693145519 45.2342989168981))",EQ_RESEA0000000130194127,Equipement de transport,Parking,place du marché
+"MULTIPOINT ((5.71073478738402 45.1887625394662))",EQ_RESEA0000000130194128,Equipement de transport,Parking,parking le cèdre
+"MULTIPOINT ((5.72826448859613 45.188325090764))",EQ_RESEA0000000130193626,Equipement de transport,Parking,parking vaucanson
+"MULTIPOINT ((5.88381544108027 45.235435287562))",EQ_RESEA0000000130194154,Equipement de transport,Parking,parking du papetier
+"MULTIPOINT ((5.71302233857433 45.1911332192452))",EQ_RESEA0000000130194159,Equipement de transport,Parking,parking europôle-gare
+"MULTIPOINT ((5.68992392695875 45.2380404427187))",EQ_RESEA0000000130194165,Equipement de transport,Parking,place pompée
+"MULTIPOINT ((5.71287576103924 45.1856536065363))",EQ_RESEA0000000130194171,Equipement de transport,Parking,parking terray
+"MULTIPOINT ((5.72723994798053 45.186323431415))",EQ_RESEA0000000130194183,Equipement de transport,Parking,parking hoche
+"MULTIPOINT ((5.67744630273654 45.2352553390752))",EQ_RESEA0000000130194184,Equipement de transport,Parking,place barnave
+"MULTIPOINT ((5.73162592255838 45.1862080694627))",EQ_RESEA0000000130194195,Equipement de transport,Parking,place eugène chavant
+"MULTIPOINT ((5.73297166372879 45.195530667277))",EQ_RESEA0000000130194189,Equipement de transport,Parking,parking du musée
+"MULTIPOINT ((5.69903516492115 45.1231371169972))",EQ_RESEA0000000130194209,Equipement de transport,Parking,place salvador allende
+"MULTIPOINT ((5.72682977941777 45.157064257791))",EQ_RESEA0000000130194210,Equipement de transport,Parking,parking le stratege
+"MULTIPOINT ((5.75920104216822 45.158881088175))",EQ_RESEA0000000130194211,Equipement de transport,Parking,place des platanes
+"MULTIPOINT ((5.72096234851793 45.1846423042506))",EQ_RESEA0000000130194213,Equipement de transport,Parking,place jacqueline marval
+"MULTIPOINT ((5.66997030135706 45.242821088506))",EQ_RESEA0000000130194215,Equipement de transport,Parking,parking relais karben
+"MULTIPOINT ((5.71659396607935 45.189200307427))",EQ_RESEA0000000130194264,Equipement de transport,Parking,parking couvert berriat-alsace lorraine
+"MULTIPOINT ((5.70227839700745 45.1494406044594))",EQ_RESEA0000000130194227,Equipement de transport,Parking,place georges kioulou
+"MULTIPOINT ((5.74994101842744 45.1987385241459))",EQ_RESEA0000000130194230,Equipement de transport,Parking,parking relais grand sablon
+"MULTIPOINT ((5.79975856401693 45.2258534682841))",EQ_RESEA0000000130194231,Equipement de transport,Parking,parking des armandières
+"MULTIPOINT ((5.63562077828791 45.2969548476457))",EQ_RESEA0000000130194233,Equipement de transport,Parking,place du vieux lavoir
+"MULTIPOINT ((5.6706105230013 45.1190287085199))",EQ_RESEA0000000130194245,Equipement de transport,Parking,place du champ de foire
+"MULTIPOINT ((5.75156771460885 45.1475274588378))",EQ_RESEA0000000130194250,Equipement de transport,Parking,place du 11 novembre 1918
+"MULTIPOINT ((5.71841700116933 45.1557902224252))",EQ_RESEA0000000130194251,Equipement de transport,Parking,parking de la butte
+"MULTIPOINT ((5.74752336885656 45.1657850242702))",EQ_RESEA0000000130194255,Equipement de transport,Parking,place paul éluard
+"MULTIPOINT ((5.75198583930146 45.1700194772035))",EQ_RESEA0000000130194259,Equipement de transport,Parking,parking l'heure bleue
+"MULTIPOINT ((5.69743680516854 45.1804239302865))",EQ_RESEA0000000130194260,Equipement de transport,Parking,place andré balme
+"MULTIPOINT ((5.74495235921298 45.179289702861))",EQ_RESEA0000000130194261,Equipement de transport,Parking,place de la commune de 1871
+"MULTIPOINT ((5.73565924447673 45.186384079369))",EQ_RESEA0000000130194276,Equipement de transport,Parking,parking de l'hôtel de ville
+"MULTIPOINT ((5.73740019718978 45.1892280667923))",EQ_RESEA0000000130194282,Equipement de transport,Parking,place jean moulin
+"MULTIPOINT ((5.79007055038194 45.1817954758405))",EQ_RESEA0000000130194285,Equipement de transport,Parking,parking salette
+"MULTIPOINT ((5.7937632436988 45.1821662031127))",EQ_RESEA0000000130194286,Equipement de transport,Parking,parking jean jaurès
+"MULTIPOINT ((5.79253469822961 45.1823104731232))",EQ_RESEA0000000130194287,Equipement de transport,Parking,place de la république
+"MULTIPOINT ((5.68335651356871 45.1946278749851))",EQ_RESEA0000000130194288,Equipement de transport,Parking,place joseph francesconi
+"MULTIPOINT ((5.68978071138375 45.1952908753214))",EQ_RESEA0000000130194291,Equipement de transport,Parking,parking marcel cachin
+"MULTIPOINT ((5.71746031568121 45.1955548028034))",EQ_RESEA0000000130194294,Equipement de transport,Parking,parking relais de l'esplanade
+"MULTIPOINT ((5.76357467168494 45.2087639427247))",EQ_RESEA0000000130194298,Equipement de transport,Parking,place de la louisiane
+"MULTIPOINT ((5.69065754007357 45.2398453988172))",EQ_RESEA0000000130194304,Equipement de transport,Parking,place de la monta
+"MULTIPOINT ((5.62684057655851 45.2474606245127))",EQ_RESEA0000000130194310,Equipement de transport,Parking,place victor jat
+"MULTIPOINT ((5.63656999091762 45.2963774953359))",EQ_RESEA0000000130194324,Equipement de transport,Parking,place armand pugnot
+"MULTIPOINT ((5.90894648987253 45.2585044570238))",EQ_RESEA0000000130194317,Equipement de transport,Parking,place du 24 août 1944
+"MULTIPOINT ((5.78367234700168 45.1876647302618))",EQ_RESEA0000000130194370,Equipement de transport,Parking,parking relais plaine des sports
+"MULTIPOINT ((5.73228843358592 45.1562252543233))",EQ_RESEA0000000208951532,Equipement de transport,Parking,parking relais alpexpo
+"MULTIPOINT ((5.48837784404697 45.0101059090638))",EQ_RESEA0000000341567473,Equipement de transport,Carrefour,les auberges
+"MULTIPOINT ((5.44262911884547 45.118323540599))",EQ_RESEA0000002009067735,Equipement de transport,Carrefour,la patte-d'oie
+"MULTIPOINT ((5.45576489784116 45.1612970487788))",EQ_RESEA0000002009067736,Equipement de transport,Carrefour,la patte de poule
+"MULTIPOINT ((5.73541781967879 44.9620519467809))",EQ_RESEA0000000007459648,Equipement de transport,Gare voyageurs uniquement,gare touristique de la motte-d'aveillans
+"MULTIPOINT ((5.71445719349332 45.1913942987191))",EQ_RESEA0000000007459284,Equipement de transport,Gare voyageurs et fret,gare de grenoble
+"MULTIPOINT ((5.63392105580782 44.912015103977))",EQ_RESEA0000000007459667,Equipement de transport,Gare voyageurs uniquement,gare de monestier-de-clermont
+"MULTIPOINT ((5.99714278719297 45.3932378655931))",EQ_RESEA0000000324177636,Equipement de transport,Gare fret uniquement,le cheylas la buissière
+"MULTIPOINT ((6.22358248676031 44.9971278815392))",EQ_RESEA0000000324175182,Equipement de transport,Gare voyageurs uniquement,gare funiculaire dôme express
+"MULTIPOINT ((5.78332067920944 44.9118508140744))",EQ_RESEA0000000007459664,Equipement de transport,Gare voyageurs uniquement,gare touristique de la mure
+"MULTIPOINT ((6.20242999660049 44.9970707280654))",EQ_RESEA0000000324175181,Equipement de transport,Gare voyageurs uniquement,gare funiculaire du dôme express
+"MULTIPOINT ((5.95981541104679 45.3184747492254))",PT_RESEA0000000354295852,Point du réseau,Passage à niveau,passage à niveau numéro 37
+"MULTIPOINT ((5.65386424775843 45.2578729776922))",PT_RESEA0000000354295809,Point du réseau,Passage à niveau,passage à niveau numéro 79
+"MULTIPOINT ((5.81350348414353 45.1916911060527))",PT_RESEA0000000354295861,Point du réseau,Passage à niveau,passage à niveau numéro 16
+"MULTIPOINT ((5.817902737448 45.1944804281311))",PT_RESEA0000000354295862,Point du réseau,Passage à niveau,passage à niveau numéro 17
+"MULTIPOINT ((5.26892610583137 45.1076055786311))",PT_RESEA0000000354295323,Point du réseau,Passage à niveau,passage à niveau numéro 42
+"MULTIPOINT ((5.2706491647921 45.1150460126811))",PT_RESEA0000000354295331,Point du réseau,Passage à niveau,passage à niveau numéro 43
+"MULTIPOINT ((5.21478939345405 45.0838380483364))",PT_RESEA0000000354295333,Point du réseau,Passage à niveau,passage à niveau numéro 35
+"MULTIPOINT ((5.2316817371866 45.0768561530002))",PT_RESEA0000000354295343,Point du réseau,Passage à niveau,passage à niveau numéro 37
+"MULTIPOINT ((5.25322940697816 45.0760135168727))",PT_RESEA0000000354295350,Point du réseau,Passage à niveau,passage à niveau numéro 40
+"MULTIPOINT ((5.2468522852001 45.0719222581632))",PT_RESEA0000000354295351,Point du réseau,Passage à niveau,passage à niveau numéro 39
+"MULTIPOINT ((5.70030007418727 45.1239263353475))",PT_RESEA0000000354295796,Point du réseau,Passage à niveau,passage à niveau numéro 8
+"MULTIPOINT ((5.6814167033913 45.2207675236908))",PT_RESEA0000000354295797,Point du réseau,Passage à niveau,passage à niveau numéro 84
+"MULTIPOINT ((5.6489509376767 45.2652646168247))",PT_RESEA0000000354295798,Point du réseau,Passage à niveau,passage à niveau numéro 78
+"MULTIPOINT ((5.64244968419277 45.2751459195996))",PT_RESEA0000000354295799,Point du réseau,Passage à niveau,passage à niveau numéro 77
+"MULTIPOINT ((5.67105550239718 45.2342199808509))",PT_RESEA0000000354295800,Point du réseau,Passage à niveau,passage à niveau numéro 83
+"MULTIPOINT ((5.65828249632263 45.2527785653476))",PT_RESEA0000000354295801,Point du réseau,Passage à niveau,passage à niveau numéro 80
+"MULTIPOINT ((5.66208930365383 45.2484913609703))",PT_RESEA0000000354295802,Point du réseau,Passage à niveau,passage à niveau numéro 81
+"MULTIPOINT ((5.71028335335941 45.1585540079612))",PT_RESEA0000000354295810,Point du réseau,Passage à niveau,passage à niveau numéro 3-2
+"MULTIPOINT ((6.00731779410074 45.4119632129735))",PT_RESEA0000000354295824,Point du réseau,Passage à niveau,passage à niveau numéro 45
+"MULTIPOINT ((5.70768319217681 45.1516754026759))",PT_RESEA0000000354295838,Point du réseau,Passage à niveau,passage à niveau numéro 4
+"MULTIPOINT ((5.70570097724749 45.1457926260914))",PT_RESEA0000000354295839,Point du réseau,Passage à niveau,passage à niveau numéro 5
+"MULTIPOINT ((5.70167950425818 45.1338743446566))",PT_RESEA0000000354295840,Point du réseau,Passage à niveau,passage à niveau numéro 7
+"MULTIPOINT ((5.70310977710652 45.1381281305066))",PT_RESEA0000000354295841,Point du réseau,Passage à niveau,passage à niveau numéro 6
+"MULTIPOINT ((5.71009292350664 45.1581198754985))",PT_RESEA0000000354295842,Point du réseau,Passage à niveau,passage à niveau numéro 3
+"MULTIPOINT ((5.98380651207878 45.3678856750414))",PT_RESEA0000000354295848,Point du réseau,Passage à niveau,passage à niveau numéro 40
+"MULTIPOINT ((5.97860781410392 45.3523244214334))",PT_RESEA0000000354295849,Point du réseau,Passage à niveau,passage à niveau numéro 39
+"MULTIPOINT ((5.95205128943308 45.3057297246012))",PT_RESEA0000000354295850,Point du réseau,Passage à niveau,passage à niveau numéro 36
+"MULTIPOINT ((5.93474046601574 45.2908032889394))",PT_RESEA0000000354295851,Point du réseau,Passage à niveau,passage à niveau numéro 33
+"MULTIPOINT ((5.94146509703834 45.2964321336531))",PT_RESEA0000000354295853,Point du réseau,Passage à niveau,passage à niveau numéro 35
+"MULTIPOINT ((5.88147837897655 45.2349261471138))",PT_RESEA0000000354295854,Point du réseau,Passage à niveau,passage à niveau numéro 24
+"MULTIPOINT ((5.84041552405546 45.2088016280086))",PT_RESEA0000000354295855,Point du réseau,Passage à niveau,passage à niveau numéro 19
+"MULTIPOINT ((5.87086083533824 45.2281895751515))",PT_RESEA0000000354295856,Point du réseau,Passage à niveau,passage à niveau numéro 22
+"MULTIPOINT ((5.8527569861933 45.2166654609338))",PT_RESEA0000000354295857,Point du réseau,Passage à niveau,passage à niveau numéro 20
+"MULTIPOINT ((5.85963502977971 45.2210513775208))",PT_RESEA0000000354295858,Point du réseau,Passage à niveau,passage à niveau numéro 21
+"MULTIPOINT ((5.98733747963315 45.3745785658472))",PT_RESEA0000000354295859,Point du réseau,Passage à niveau,passage à niveau numéro 42
+"MULTIPOINT ((5.80730282673437 45.1877576424296))",PT_RESEA0000000354295863,Point du réseau,Passage à niveau,passage à niveau numéro 15
+"MULTIPOINT ((5.78993094259744 45.1859353588433))",PT_RESEA0000000354295864,Point du réseau,Passage à niveau,passage à niveau numéro 13
+"MULTIPOINT ((5.79894669222748 45.1855375456948))",PT_RESEA0000000354295865,Point du réseau,Passage à niveau,passage à niveau numéro 14
+"MULTIPOINT ((5.88718678396954 45.2427672789084))",PT_RESEA0000000354295866,Point du réseau,Passage à niveau,passage à niveau numéro 25
+"MULTIPOINT ((5.90199745664923 45.2628704533267))",PT_RESEA0000000354295867,Point du réseau,Passage à niveau,passage à niveau numéro 27
+"MULTIPOINT ((5.891699108744 45.2517906542512))",PT_RESEA0000000354295868,Point du réseau,Passage à niveau,passage à niveau numéro 26
+"MULTIPOINT ((5.99753021908396 45.3936870608847))",PT_RESEA0000000354295869,Point du réseau,Passage à niveau,passage à niveau numéro 44
+"MULTIPOINT ((5.7204227325971 45.1789290162898))",PT_RESEA0000000354295870,Point du réseau,Passage à niveau,passage à niveau numéro 2
+"MULTIPOINT ((5.72285455228271 45.1765524663764))",PT_RESEA0000000354295871,Point du réseau,Passage à niveau,passage à niveau numéro 3
+"MULTIPOINT ((5.73160947075602 45.0732265068581))",PT_RESEA0000000354296084,Point du réseau,Passage à niveau,passage à niveau numéro 17
+"MULTIPOINT ((5.73578893882824 45.0788700935839))",PT_RESEA0000000354296085,Point du réseau,Passage à niveau,passage à niveau numéro 16
+"MULTIPOINT ((5.74219960186811 45.082589213678))",PT_RESEA0000000354296086,Point du réseau,Passage à niveau,passage à niveau numéro 15
+"MULTIPOINT ((5.60453680593754 44.8602879568415))",PT_RESEA0000000354296090,Point du réseau,Passage à niveau,passage à niveau numéro 27
+"MULTIPOINT ((5.62158510023912 44.8801986074383))",PT_RESEA0000000354296091,Point du réseau,Passage à niveau,passage à niveau numéro 26
+"MULTIPOINT ((5.61736055560528 44.8954612150005))",PT_RESEA0000000354296092,Point du réseau,Passage à niveau,passage à niveau numéro 25
+"MULTIPOINT ((5.63297380707203 44.9112677825173))",PT_RESEA0000000354296093,Point du réseau,Passage à niveau,passage à niveau numéro 24
+"MULTIPOINT ((5.64039987831661 44.9539986013608))",PT_RESEA0000000354296094,Point du réseau,Passage à niveau,passage à niveau numéro 23
+"MULTIPOINT ((5.67383930312689 45.0398126701235))",PT_RESEA0000000354296095,Point du réseau,Passage à niveau,passage à niveau numéro 20
+"MULTIPOINT ((5.72873073309247 45.0688455686875))",PT_RESEA0000000354296096,Point du réseau,Passage à niveau,passage à niveau numéro 18
+"MULTIPOINT ((5.72142397339172 45.0952584926604))",PT_RESEA0000000354296097,Point du réseau,Passage à niveau,passage à niveau numéro 12
+"MULTIPOINT ((5.73204551858744 45.0892848604358))",PT_RESEA0000000354296098,Point du réseau,Passage à niveau,passage à niveau numéro 13
+"MULTIPOINT ((5.64965490823004 44.9912160363974))",PT_RESEA0000000354296099,Point du réseau,Passage à niveau,passage à niveau numéro 22
+"MULTIPOINT ((5.63044897722371 44.7827697745282))",PT_RESEA0000000354296100,Point du réseau,Passage à niveau,passage à niveau numéro 28
+"MULTIPOINT ((5.74260458572415 45.0838198365942))",PT_RESEA0000000354296101,Point du réseau,Passage à niveau,passage à niveau numéro 14
+"MULTIPOINT ((5.70764077045806 45.113401101976))",PT_RESEA0000000354296102,Point du réseau,Passage à niveau,passage à niveau numéro 10
+"MULTIPOINT ((5.65936359779681 45.0148605362667))",PT_RESEA0000000354296103,Point du réseau,Passage à niveau,passage à niveau numéro 21
+"MULTIPOINT ((6.01598714438334 45.4458779667595))",PT_RESEA0000000354295860,Point du réseau,Passage à niveau,passage à niveau numéro 48
+"MULTIPOINT ((5.96224847778672 44.8416057858855))",AERODROM0000000318904519,Aérodrome,Altiport,altisurface de la salette
+"MULTIPOINT ((5.84860669639794 45.2180602997975))",AERODROM0000000007459251,Aérodrome,Aérodrome,aérodrome de grenoble-le versoud
+"MULTIPOINT ((5.88353484867432 45.0390388005777))",AERODROM0000000300789069,Aérodrome,Altiport,crête de brouffiers
+"MULTIPOINT ((6.08492650741152 45.0889463668392))",AERODROM0000000229619338,Aérodrome,Altiport,altiport henri giraud
+"MULTIPOINT ((6.08492650741152 45.0889463668392))",AERODROM0000000229619338,Aérodrome,Altiport,altiport de l'alpe d'huez
+"MULTIPOINT ((6.07499843446586 45.0507431330324))",TRANCABL0000002202710503,Transport par cable,Téléski,téléski la forêt
+"MULTIPOINT ((6.07034926298423 45.1002070378529))",TRANCABL0000000007469709,Transport par cable,Téléski,téléski des grenouilles
+"MULTIPOINT ((6.07034926298423 45.1002070378529))",TRANCABL0000000007469709,Transport par cable,Téléski,téléski école 2
+"MULTIPOINT ((6.00280981547408 45.250519671759))",TRANCABL0000000258022648,Transport par cable,Téléski,téléski du plan 2
+"MULTIPOINT ((6.05251602355487 45.332934499101))",TRANCABL0000000007459127,Transport par cable,Téléski,téléski de la croix
+"MULTIPOINT ((5.84057035243263 45.3657127641547))",TRANCABL0000002216062816,Transport par cable,Téléski,seuillet
+"MULTIPOINT ((5.83597421651401 45.3464598653346))",TRANCABL0000002215766170,Transport par cable,Téléski,l'uzet
+"MULTIPOINT ((5.83345798825534 45.3462028254287))",TRANCABL0000002215766171,Transport par cable,Téléski,les mickeys
+"MULTIPOINT ((6.05217012373055 45.3332899635093))",TRANCABL0000002218812050,Transport par cable,Téléski,téléski de la croix
+"MULTIPOINT ((6.03829425345258 45.1259983602738))",TRANCABL0000002204245170,Transport par cable,"Télécabine, téléphérique",eau d'olle express
+"MULTIPOINT ((6.09018961920792 45.1619810508183))",TRANCABL0000000321300267,Transport par cable,"Télécabine, téléphérique",télécabine de la villette-mont frais
+"MULTIPOINT ((6.09018961920792 45.1619810508183))",TRANCABL0000000321300267,Transport par cable,"Télécabine, téléphérique",télécabine villette-montfrais
+"MULTIPOINT ((6.09018961920792 45.1619810508183))",TRANCABL0000000321300267,Transport par cable,"Télécabine, téléphérique",télécabine de la villette-montfrais
+"MULTIPOINT ((6.06967791760938 45.0990099775377))",TRANCABL0000002003324976,Transport par cable,Autre remontée mécanique,téléski des grenouilles
+"MULTIPOINT ((6.12476736297986 45.0043589637615))",TRANCABL0000000330935746,Transport par cable,Télésiège,télésiège du diable
+"MULTIPOINT ((5.54628308242437 45.169695669258))",TRANCABL0000000007469764,Transport par cable,Téléski,téléski des sauteurs
+"MULTIPOINT ((6.06589137815118 45.0898187192815))",TRANCABL0000002206946360,Transport par cable,"Télécabine, téléphérique",télécabine paganon-berger (alpe express)
+"MULTIPOINT ((6.23707371103508 44.9987352187405))",TRANCABL0000000007469829,Transport par cable,Téléski,téléski de la lauze
+"MULTIPOINT ((6.12840652841208 45.3928910544262))",TRANCABL0000000007469603,Transport par cable,Télésiège,télésiège des plagnes
+"MULTIPOINT ((6.12840652841208 45.3928910544262))",TRANCABL0000000007469603,Transport par cable,Télésiège,télésiège de claran
+"MULTIPOINT ((6.07960106527256 45.1575647277244))",TRANCABL0000000007469718,Transport par cable,"Télécabine, téléphérique",télécabine de mont frais
+"MULTIPOINT ((6.07960106527256 45.1575647277244))",TRANCABL0000000007469718,Transport par cable,"Télécabine, téléphérique",télécabine vaujany-villette
+"MULTIPOINT ((6.07960106527256 45.1575647277244))",TRANCABL0000000007469718,Transport par cable,"Télécabine, téléphérique",télécabine vaujany-la villette
+"MULTIPOINT ((5.99745859769952 45.256573532161))",TRANCABL0000000007459206,Transport par cable,Télésiège,télésiège des chamois
+"MULTIPOINT ((6.08443802168283 45.1061228618589))",TRANCABL0000000296503566,Transport par cable,"Télécabine, téléphérique",télécabine du poutran
+"MULTIPOINT ((5.72464967760868 45.1985612883069))",TRANCABL0000000007469687,Transport par cable,"Télécabine, téléphérique",téléphérique de la bastille
+"MULTIPOINT ((5.81714413554879 45.3444710883908))",TRANCABL0000000007469624,Transport par cable,"Télécabine, téléphérique",télécabine des essarts
+"MULTIPOINT ((6.06517534690511 45.089612250791))",TRANCABL0000000007469806,Transport par cable,"Télécabine, téléphérique",télécabine des villages
+"MULTIPOINT ((6.06517534690511 45.089612250791))",TRANCABL0000000007469806,Transport par cable,"Télécabine, téléphérique",télévillage
+"MULTIPOINT ((6.08490851869314 45.1058638423149))",TRANCABL0000000007469801,Transport par cable,"Télécabine, téléphérique",téléphérique des grandes rousses
+"MULTIPOINT ((6.08490851869314 45.1058638423149))",TRANCABL0000000007469801,Transport par cable,"Télécabine, téléphérique",télécabine des grandes rousses 1
+"MULTIPOINT ((6.17149739677299 44.9967765718458))",TRANCABL0000000007469874,Transport par cable,"Télécabine, téléphérique",téléphérique du jandri express 1
+"MULTIPOINT ((6.11192721785171 45.1110509068048))",TRANCABL0000000294361611,Transport par cable,"Télécabine, téléphérique",téléphérique des marmottes 3
+"MULTIPOINT ((6.2246030710854 44.9973285358209))",TRANCABL0000000296096451,Transport par cable,Téléski,téléski de puy salié 1
+"MULTIPOINT ((6.17869844612905 44.9853694089748))",TRANCABL0000002206946354,Transport par cable,Télésiège,télésiège de la toura
+"MULTIPOINT ((6.11415264200867 45.1641639933619))",TRANCABL0000000007469682,Transport par cable,Télésiège,télésiège du vallonnet
+"MULTIPOINT ((6.08490851869314 45.1058638423149))",TRANCABL0000000007469711,Transport par cable,"Télécabine, téléphérique",télécabine des grandes rousses 2
+"MULTIPOINT ((6.07639782273883 45.1527304389431))",TRANCABL0000000007469705,Transport par cable,"Télécabine, téléphérique",télécabine vaujany-enversin
+"MULTIPOINT ((5.51991776712362 45.1271092658249))",TRANCABL0000000007469757,Transport par cable,Télésiège,télésiège du gonçon
+"MULTIPOINT ((5.89310573566264 45.1152856400998))",TRANCABL0000000007469722,Transport par cable,Télésiège,télésiège de bachat bouloud
+"MULTIPOINT ((6.12397398554294 45.0180029101696))",TRANCABL0000000296096406,Transport par cable,Télésiège,télésiège de la vallée blanche
+"MULTIPOINT ((5.5427767084734 45.0106507921698))",TRANCABL0000000007469932,Transport par cable,Télésiège,télésiège mixte du clos de la balme
+"MULTIPOINT ((6.03593741598929 45.096234550541))",TRANCABL0000000007469813,Transport par cable,Téléski,téléski tortue
+"MULTIPOINT ((5.83674541255804 45.3481784044255))",TRANCABL0000000007469615,Transport par cable,Téléski,téléski du plattet
+"MULTIPOINT ((6.09593392771038 45.0814206200573))",TRANCABL0000000007469776,Transport par cable,Télésiège,télésiège de chalvet
+"MULTIPOINT ((6.07844891365085 45.0720059438576))",TRANCABL0000000007469772,Transport par cable,Télésiège,télésiège auris express
+"MULTIPOINT ((5.57406570430914 45.0387706124859))",TRANCABL0000000007469913,Transport par cable,Télésiège,télésiège des glovettes
+"MULTIPOINT ((6.10274525918538 45.1083143565088))",TRANCABL0000000007469714,Transport par cable,Télésiège,télésiège du lièvre blanc
+"MULTIPOINT ((5.5525633545813 45.022778273738))",TRANCABL0000000007469927,Transport par cable,Télésiège,télésiège des crêtes
+"MULTIPOINT ((5.57073343032323 45.0226276307157))",TRANCABL0000000007469914,Transport par cable,Télésiège,télésiège du grand canyon
+"MULTIPOINT ((6.05804249587945 45.1005553545305))",TRANCABL0000000007469808,Transport par cable,Télésiège,télésiège du villarais
+"MULTIPOINT ((6.09028968536619 45.101447198398))",TRANCABL0000000294361610,Transport par cable,Télésiège,télésiège les romains
+"MULTIPOINT ((5.88497856732 45.3135547085929))",TRANCABL0000000007469626,Transport par cable,Téléski,téléski des ruches
+"MULTIPOINT ((5.87864380989935 45.1244294910257))",TRANCABL0000000007469729,Transport par cable,Télésiège,télésiège des gaboureaux
+"MULTIPOINT ((5.58104712589233 45.2270437989796))",TRANCABL0000000007469689,Transport par cable,Télésiège,télésiège de la quoi
+"MULTIPOINT ((5.58104712589233 45.2270437989796))",TRANCABL0000000007469689,Transport par cable,Télésiège,télésège combe la quoi
+"MULTIPOINT ((5.83218417168204 45.3575798837456))",TRANCABL0000000338023286,Transport par cable,Télésiège,télésiège de la combe de l'ours
+"MULTIPOINT ((6.01736297350917 45.2449625832029))",TRANCABL0000000007469654,Transport par cable,Télésiège,télésiège du lac
+"MULTIPOINT ((5.83853118819798 45.3686108350094))",TRANCABL0000000338525653,Transport par cable,Télésiège,fraisses
+"MULTIPOINT ((5.89153777006939 45.1201016577324))",TRANCABL0000000007469724,Transport par cable,Télésiège,télésiège des amoureux
+"MULTIPOINT ((5.5531195513926 45.0013568529461))",TRANCABL0000000007469931,Transport par cable,Télésiège,télésiège du belvédère
+"MULTIPOINT ((6.12703489456085 45.0142576259445))",TRANCABL0000000007469880,Transport par cable,Télésiège,télésiège de la belle étoile
+"MULTIPOINT ((5.87704088531875 45.110526986195))",TRANCABL0000000007469728,Transport par cable,Télésiège,télésiège de la bérangère
+"MULTIPOINT ((6.14380857953428 45.0096606454505))",TRANCABL0000000007469873,Transport par cable,Télésiège,télésiège du village
+"MULTIPOINT ((6.16754992345006 45.0043817010108))",TRANCABL0000000007469837,Transport par cable,Télésiège,télésiège de la fée
+"MULTIPOINT ((6.09567797033813 45.1528602028004))",TRANCABL0000000117243559,Transport par cable,Télésiège,télésiège du clos giraud
+"MULTIPOINT ((6.03897749067978 45.2642963841912))",TRANCABL0000000007469662,Transport par cable,Télésiège,télésiège de l'aigle
+"MULTIPOINT ((6.17256643383545 44.9983851879813))",TRANCABL0000000296096408,Transport par cable,Télésiège,télésiège des glaciers 1
+"MULTIPOINT ((5.88368173086515 45.1097661207264))",TRANCABL0000000007469818,Transport par cable,Télésiège,télésiège de l'arselle
+"MULTIPOINT ((6.01605142870792 45.2545071611785))",TRANCABL0000000338604652,Transport par cable,Télésiège,télésiège du gypaète
+"MULTIPOINT ((6.04793180103529 45.2614366378774))",TRANCABL0000000330828074,Transport par cable,Télésiège,télésiège de l'oursière
+"MULTIPOINT ((5.98064008182151 45.0313024213086))",TRANCABL0000000007469888,Transport par cable,Téléski,téléski de bois barlet
+"MULTIPOINT ((5.98064008182151 45.0313024213086))",TRANCABL0000000007469888,Transport par cable,Téléski,téléski de bois barbet
+"MULTIPOINT ((5.98064008182151 45.0313024213086))",TRANCABL0000000007469888,Transport par cable,Téléski,bois barlet
+"MULTIPOINT ((6.22461758544966 44.9972938722756))",TRANCABL0000000296096452,Transport par cable,Téléski,téléski de puy salié 2
+"MULTIPOINT ((5.89212282280686 45.1173654406106))",TRANCABL0000000007469731,Transport par cable,Téléski,téléskis du schuss des dames
+"MULTIPOINT ((5.53931013638981 44.8950086781986))",TRANCABL0000000007469956,Transport par cable,Téléski,téléski de pré levé
+"MULTIPOINT ((5.62213119894611 45.1077785938755))",TRANCABL0000000007469823,Transport par cable,Téléski,téléski les trois buissons
+"MULTIPOINT ((6.04733134990041 45.0949341588508))",TRANCABL0000000007469811,Transport par cable,Téléski,téléski du petit prince
+"MULTIPOINT ((5.54317942980017 45.0085570354596))",TRANCABL0000000007469930,Transport par cable,Téléski,téléski les arolles
+"MULTIPOINT ((5.58178556339989 45.2309609933223))",TRANCABL0000000007469678,Transport par cable,Téléski,téléski des crêtes
+"MULTIPOINT ((5.84972031466827 44.9885054471941))",TRANCABL0000000007469943,Transport par cable,Téléski,téléski de l'ollière
+"MULTIPOINT ((5.84972031466827 44.9885054471941))",TRANCABL0000000007469943,Transport par cable,Téléski,téléski de l'oullière
+"MULTIPOINT ((5.54566523626931 44.8768127045144))",TRANCABL0000000007469967,Transport par cable,Téléski,téléski des alleyrons
+"MULTIPOINT ((5.60936965007265 45.1118618160861))",TRANCABL0000000007469824,Transport par cable,Téléski,téléski de roche rousse
+"MULTIPOINT ((5.51641680067291 45.1168491502947))",TRANCABL0000000007469756,Transport par cable,Téléski,téléski du cray
+"MULTIPOINT ((5.61175189076014 45.1198780435723))",TRANCABL0000000007469744,Transport par cable,Téléski,téléski de la combe des virets
+"MULTIPOINT ((5.83330050333276 44.9916431044609))",TRANCABL0000000007459624,Transport par cable,Téléski,téléski du parché
+"MULTIPOINT ((6.25042066968642 44.9972186624036))",TRANCABL0000002009234573,Transport par cable,Téléski,téléski de la girose
+"MULTIPOINT ((5.84509329967777 44.9913438902709))",TRANCABL0000000248911883,Transport par cable,Téléski,téléski du pérollier
+"MULTIPOINT ((6.22070495139769 44.9957987301587))",TRANCABL0000000330934185,Transport par cable,Téléski,téléski du dôme sud
+"MULTIPOINT ((6.1426539190153 45.0112449458453))",TRANCABL0000000007469858,Transport par cable,Téléski,téléski des ancontres
+"MULTIPOINT ((5.55984922164462 45.0447476816493))",TRANCABL0000000007469917,Transport par cable,"Télécabine, téléphérique",télécabine de pré des prés
+"MULTIPOINT ((5.55984922164462 45.0447476816493))",TRANCABL0000000007469917,Transport par cable,"Télécabine, téléphérique",télécabine de pré des preys
+"MULTIPOINT ((5.87739284234767 45.1094051674983))",TRANCABL0000000007469735,Transport par cable,Téléski,téléski de la lauze
+"MULTIPOINT ((5.80080049270223 45.3152353285804))",TRANCABL0000000007469639,Transport par cable,Téléski,téléski du coleau
+"MULTIPOINT ((5.80080049270223 45.3152353285804))",TRANCABL0000000007469639,Transport par cable,Téléski,saint-hugue - coleau
+"MULTIPOINT ((6.17263340852423 44.996675690879))",TRANCABL0000000007469843,Transport par cable,"Télécabine, téléphérique",téléphérique du jandri express 2
+"MULTIPOINT ((6.03691055763894 45.2674847871338))",TRANCABL0000000258022641,Transport par cable,Téléski,téléski les loups
+"MULTIPOINT ((6.06884367527157 45.1034194087486))",TRANCABL0000000007469712,Transport par cable,Téléski,téléski de poutran
+"MULTIPOINT ((6.22028154289801 44.9947521707183))",TRANCABL0000000007469847,Transport par cable,Téléski,téléski du soreiller
+"MULTIPOINT ((5.85026826535019 45.0204548567692))",TRANCABL0000000007469907,Transport par cable,Téléski,téléski de la cochette 1
+"MULTIPOINT ((6.07856316863279 45.1060059657293))",TRANCABL0000000007469700,Transport par cable,Téléski,téléski de babar
+"MULTIPOINT ((6.07753854618392 45.0902635227276))",TRANCABL0000000330849992,Transport par cable,Télésiège,télésiège des marmottes 1
+"MULTIPOINT ((6.06528544781663 45.0908779353811))",TRANCABL0000000007469779,Transport par cable,"Télécabine, téléphérique",télécentre
+"MULTIPOINT ((5.5964523391164 45.1235038297363))",TRANCABL0000000007469751,Transport par cable,Téléski,téléski des écureuils
+"MULTIPOINT ((5.99763753145476 45.2545629296193))",TRANCABL0000000007469650,Transport par cable,Téléski,téléski des petits loups
+"MULTIPOINT ((6.06823771186199 45.1269624428247))",TRANCABL0000000007469701,Transport par cable,Téléski,téléski du clos du pré
+"MULTIPOINT ((5.51982249460299 45.1289473781756))",TRANCABL0000000007469765,Transport par cable,Téléski,téléski de grand champ
+"MULTIPOINT ((6.12501278834534 45.0061163872684))",TRANCABL0000000007469868,Transport par cable,Téléski,téléski du grand viking
+"MULTIPOINT ((6.12487708721429 45.0045270870932))",TRANCABL0000000007469867,Transport par cable,Téléski,téléski des rivets
+"MULTIPOINT ((6.07353275673549 45.1298514542553))",TRANCABL0000000007469699,Transport par cable,"Télécabine, téléphérique",télécabine de l'alpette
+"MULTIPOINT ((5.54731237443534 44.8935084182792))",TRANCABL0000000007469965,Transport par cable,Téléski,téléski du pras 2
+"MULTIPOINT ((6.12746899212485 45.00599690381))",TRANCABL0000000007469869,Transport par cable,Téléski,téléski des vikings
+"MULTIPOINT ((5.60826881069532 45.1111461445972))",TRANCABL0000000007469825,Transport par cable,Téléski,téléski des bachassons
+"MULTIPOINT ((5.80015940935077 45.3113238886533))",TRANCABL0000000007469640,Transport par cable,Téléski,buissonnets
+"MULTIPOINT ((6.1317767776407 45.0150226398493))",TRANCABL0000000301509690,Transport par cable,Téléski,téléski de champame
+"MULTIPOINT ((6.03509570947593 45.2620436988635))",TRANCABL0000000246604194,Transport par cable,Téléski,téléski du tétras
+"MULTIPOINT ((6.13323129423124 45.0063510833177))",TRANCABL0000000330868215,Transport par cable,Téléski,téléski de côte brune
+"MULTIPOINT ((6.07467363971158 45.0914158064706))",TRANCABL0000002008352033,Transport par cable,Téléski,téléski du rif nel
+"MULTIPOINT ((5.87967493882761 45.1253723418717))",TRANCABL0000000330830433,Transport par cable,"Télécabine, téléphérique",télécabine de la croix
+"MULTIPOINT ((6.07646131722263 45.0567029558665))",TRANCABL0000000007469788,Transport par cable,Télésiège,télésiège des sures
+"MULTIPOINT ((6.0695598504601 45.0616447622691))",TRANCABL0000000079163710,Transport par cable,Télésiège,télésiège de maronne
+"MULTIPOINT ((5.88545582794127 45.3138190187624))",TRANCABL0000000007469629,Transport par cable,Téléski,téléski école
+"MULTIPOINT ((6.05455609723991 45.2720690484303))",TRANCABL0000000007469652,Transport par cable,Télésiège,télésiège de pincerie
+"MULTIPOINT ((6.12302173672052 45.0234784981574))",TRANCABL0000000007469885,Transport par cable,Télésiège,télésiège de la petite aiguille
+"MULTIPOINT ((5.76514760023434 45.2948192142787))",TRANCABL0000000007469641,Transport par cable,Téléski,téléski de la prairie
+"MULTIPOINT ((5.52799515532141 44.8914014627298))",TRANCABL0000000007469959,Transport par cable,Téléski,téléski de pierre blanche
+"MULTIPOINT ((6.01719406811731 45.2436092085096))",TRANCABL0000000007469656,Transport par cable,Téléski,téléski du lac
+"MULTIPOINT ((5.77832595698881 45.2556427386337))",TRANCABL0000000007469677,Transport par cable,Téléski,le trat
+"MULTIPOINT ((5.54748273267234 44.8926550418493))",TRANCABL0000000007469960,Transport par cable,Téléski,téléski des bessards 1
+"MULTIPOINT ((5.83781711270715 45.3686703818542))",TRANCABL0000000007469623,Transport par cable,Téléski,téléski du gaz
+"MULTIPOINT ((5.83781711270715 45.3686703818542))",TRANCABL0000000007469623,Transport par cable,Téléski,gaz / col
+"MULTIPOINT ((5.83361589461054 45.3478738351355))",TRANCABL0000000301530511,Transport par cable,Téléski,les timelles
+"MULTIPOINT ((6.12811042151374 45.1248065700382))",TRANCABL0000000079248107,Transport par cable,Télésiège,télésiège du glacier
+"MULTIPOINT ((6.07900222865301 45.1145532490194))",TRANCABL0000000007469703,Transport par cable,Téléski,téléski champ clotury
+"MULTIPOINT ((6.10454247868906 45.1189288002502))",TRANCABL0000000007469702,Transport par cable,Télésiège,télésiège du lac blanc
+"MULTIPOINT ((6.03590512060382 45.0961318081474))",TRANCABL0000000007469810,Transport par cable,Téléski,téléski de langaret
+"MULTIPOINT ((5.53966384361275 45.0118776621496))",TRANCABL0000000007459630,Transport par cable,Téléski,téléskis falaise 1 et 2
+"MULTIPOINT ((5.53966384361275 45.0118776621496))",TRANCABL0000000007459630,Transport par cable,Téléski,falaise 1
+"MULTIPOINT ((5.83462355218296 45.3654255723073))",TRANCABL0000000007469619,Transport par cable,Téléski,téléski du cucheron
+"MULTIPOINT ((5.83462355218296 45.3654255723073))",TRANCABL0000000007469619,Transport par cable,Téléski,cucheron
+"MULTIPOINT ((5.84642627715008 45.3449340104756))",TRANCABL0000000007469618,Transport par cable,Télésiège,télésiège de la scia
+"MULTIPOINT ((6.15845949359292 45.002245055675))",TRANCABL0000000007469842,Transport par cable,Télésiège,télésiège de bellecombes
+"MULTIPOINT ((5.54892135010908 44.8917122063844))",TRANCABL0000000007469961,Transport par cable,Téléski,téléski du blavet
+"MULTIPOINT ((5.54682102019707 45.1725265775697))",TRANCABL0000000007469767,Transport par cable,Téléski,téléski du tremplin
+"MULTIPOINT ((5.6179248740407 45.1148855351718))",TRANCABL0000000007469750,Transport par cable,Téléski,téléski martagons
+"MULTIPOINT ((5.58087904789568 45.2366369357118))",TRANCABL0000000007469680,Transport par cable,Téléski,téléski de la grande brèche 2
+"MULTIPOINT ((5.61780956439162 45.1150314855773))",TRANCABL0000002000209749,Transport par cable,Téléski,téléski les virets
+"MULTIPOINT ((5.57169086943209 45.0305564930496))",TRANCABL0000000007469915,Transport par cable,Télésiège,télésiège du refuge
+"MULTIPOINT ((5.87766704070113 45.1031406570114))",TRANCABL0000000007469821,Transport par cable,Téléski,téléski totem 1
+"MULTIPOINT ((5.85478404225353 45.0167379378723))",TRANCABL0000000007469908,Transport par cable,Téléski,téléskis des rinnes
+"MULTIPOINT ((5.50757403465231 45.1263776736136))",TRANCABL0000000007469755,Transport par cable,Télésiège,télésiège la forêt
+"MULTIPOINT ((6.07279708582759 45.0941888344181))",TRANCABL0000000330849993,Transport par cable,Téléski,téléski du rif nel bis
+"MULTIPOINT ((5.54136290882886 45.0099155708692))",TRANCABL0000002008274987,Transport par cable,Téléski,falaise 2
+"MULTIPOINT ((6.15784787685143 44.9914907386199))",TRANCABL0000000007469850,Transport par cable,Télésiège,télésiège du super diable
+"MULTIPOINT ((6.13139006165523 45.0105848611771))",TRANCABL0000000007469886,Transport par cable,Téléski,téléski des lutins
+"MULTIPOINT ((5.77526264215721 45.2558125579499))",TRANCABL0000000007469676,Transport par cable,Téléski,téléski de la pale
+"MULTIPOINT ((5.77526264215721 45.2558125579499))",TRANCABL0000000007469676,Transport par cable,Téléski,la pale
+"MULTIPOINT ((5.87893834822161 45.1124845195084))",TRANCABL0000000330830434,Transport par cable,Téléski,téléski de la croisette
+"MULTIPOINT ((5.86037985813678 45.0235812676644))",TRANCABL0000000007469904,Transport par cable,Téléski,téléski baby
+"MULTIPOINT ((6.07753565327621 45.0890786819504))",TRANCABL0000000007469802,Transport par cable,Télésiège,télésiège l'alpauris
+"MULTIPOINT ((6.14845605985523 44.9984268688852))",TRANCABL0000000007469838,Transport par cable,Télésiège,télésiège des crêtes
+"MULTIPOINT ((6.06937331878462 45.1010160603462))",TRANCABL0000000330849994,Transport par cable,Téléski,téléski les sagnes
+"MULTIPOINT ((6.12057714687379 45.1145441353136))",TRANCABL0000000007469694,Transport par cable,Télésiège,télésiège de l'herpie
+"MULTIPOINT ((6.07890784475255 45.0722807019162))",TRANCABL0000000007469796,Transport par cable,Télésiège,télésiège des louvets
+"MULTIPOINT ((5.87210809203003 45.3137183065032))",TRANCABL0000000007469628,Transport par cable,Téléski,téléski du sauzet
+"MULTIPOINT ((6.02392786239598 45.2630411815118))",TRANCABL0000000007469663,Transport par cable,Téléski,téléski des blanchons
+"MULTIPOINT ((5.86147644808457 45.0211501867514))",TRANCABL0000000296037733,Transport par cable,Téléski,téléski des bambin 1
+"MULTIPOINT ((6.13271596245908 45.3968718018104))",TRANCABL0000000007469599,Transport par cable,Téléski,téléski de pré rond
+"MULTIPOINT ((6.03796202069579 45.273313359719))",TRANCABL0000000258022642,Transport par cable,Téléski,téléski l'écureuil
+"MULTIPOINT ((5.52007052693732 45.1264049420418))",TRANCABL0000000007469758,Transport par cable,Téléski,téléski chatelard 1
+"MULTIPOINT ((6.14552169890406 45.0085669569506))",TRANCABL0000000007469879,Transport par cable,"Télécabine, téléphérique",télécabine du jandri 1
+"MULTIPOINT ((6.14552169890406 45.0085669569506))",TRANCABL0000000007469879,Transport par cable,"Télécabine, téléphérique",télécabine les œufs blancs
+"MULTIPOINT ((5.90454006348878 45.1243588146181))",TRANCABL0000000007469720,Transport par cable,Téléski,téléski de l'infernet
+"MULTIPOINT ((5.52010174174774 45.1264763056078))",TRANCABL0000000007469761,Transport par cable,Téléski,téléski chatelard 2
+"MULTIPOINT ((6.10843774279725 45.39351456676))",TRANCABL0000000220880763,Transport par cable,Télésiège,téléski des tufs
+"MULTIPOINT ((6.10843774279725 45.39351456676))",TRANCABL0000000220880763,Transport par cable,Télésiège,télésiège des tufs
+"MULTIPOINT ((5.88014497082854 45.3143694600017))",TRANCABL0000000007469630,Transport par cable,Téléski,téléski de bois bossu
+"MULTIPOINT ((6.02312912017359 45.2504087742569))",TRANCABL0000000007469664,Transport par cable,Téléski,téléski des marmottons
+"MULTIPOINT ((5.61346053031873 45.1135866897349))",TRANCABL0000000296053370,Transport par cable,Téléski,téléski du grand jassinet
+"MULTIPOINT ((6.1007290722425 45.1627528069809))",TRANCABL0000000007469685,Transport par cable,Télésiège,télésiège de mont frais
+"MULTIPOINT ((6.1007290722425 45.1627528069809))",TRANCABL0000000007469685,Transport par cable,Télésiège,télésiège de montfrais
+"MULTIPOINT ((5.88585560550638 45.3156684571837))",TRANCABL0000000007469631,Transport par cable,Téléski,téléski pierre dorée
+"MULTIPOINT ((6.13024931177757 45.0144691035563))",TRANCABL0000000007469865,Transport par cable,Téléski,téléski du grand bosquet
+"MULTIPOINT ((5.58804836701579 45.2344251181906))",TRANCABL0000000007469679,Transport par cable,Téléski,téléski du mortier
+"MULTIPOINT ((5.61780197655502 45.1145163508226))",TRANCABL0000000296053367,Transport par cable,Téléski,téléski de la sierre
+"MULTIPOINT ((5.86355223736911 45.0220446165367))",TRANCABL0000000296037734,Transport par cable,Téléski,téléski des bambin 2
+"MULTIPOINT ((5.54579130933678 45.0226000633391))",TRANCABL0000000296053781,Transport par cable,Télésiège,téléski de grand buisson
+"MULTIPOINT ((5.54579130933678 45.0226000633391))",TRANCABL0000000296053781,Transport par cable,Télésiège,télésiège du grand buisson
+"MULTIPOINT ((5.8463992803478 45.02683451431))",TRANCABL0000000007469905,Transport par cable,Téléski,téléski de la cochette 2
+"MULTIPOINT ((5.56471637841721 45.0080167704499))",TRANCABL0000000007469928,Transport par cable,Téléski,téléski de l'ourson
+"MULTIPOINT ((6.01675017378438 45.2648021572057))",TRANCABL0000000221462015,Transport par cable,Téléski,téléski des marcassins
+"MULTIPOINT ((5.5702786345349 45.0387833365295))",TRANCABL0000000007469920,Transport par cable,Téléski,téléski bamby
+"MULTIPOINT ((6.07586441877607 45.0567834220161))",TRANCABL0000002008262773,Transport par cable,Téléski,téléski du col
+"MULTIPOINT ((5.78721563408797 45.2498946951853))",TRANCABL0000000007469675,Transport par cable,Téléski,téléski du grand sommard
+"MULTIPOINT ((5.60941799798815 45.1141237280131))",TRANCABL0000000296053372,Transport par cable,Téléski,téléski du petit jassinet
+"MULTIPOINT ((6.13078964458731 45.405549778785))",TRANCABL0000000220882481,Transport par cable,Téléski,téléski des marmottes
+"MULTIPOINT ((6.15151187294949 45.0108177710543))",TRANCABL0000000007469839,Transport par cable,Télésiège,télésiège du thuit
+"MULTIPOINT ((6.00149454286346 45.2512767767111))",TRANCABL0000000007469667,Transport par cable,Télésiège,télésiège des bouquetins
+"MULTIPOINT ((5.60951650546664 45.1158520388732))",TRANCABL0000000296053373,Transport par cable,Téléski,téléski du petit jassinet
+"MULTIPOINT ((6.12869245096894 45.3933354508817))",TRANCABL0000000007469602,Transport par cable,Télésiège,télésiège du grand collet
+"MULTIPOINT ((5.84540945334077 45.0082882558827))",TRANCABL0000000007469899,Transport par cable,Télésiège,télésiège des portes sud
+"MULTIPOINT ((6.09889272636429 45.1614512734309))",TRANCABL0000000296503564,Transport par cable,Téléski,téléski de mont frais i
+"MULTIPOINT ((6.09889272636429 45.1614512734309))",TRANCABL0000000296503564,Transport par cable,Téléski,téléski de montfrais i
+"MULTIPOINT ((5.76660861041977 45.2826224300755))",TRANCABL0000000007469674,Transport par cable,Téléski,téléski de chamechaude
+"MULTIPOINT ((5.91764486205605 45.3577586004399))",TRANCABL0000000330790047,Transport par cable,Téléski,téléski du grand essart
+"MULTIPOINT ((5.49872262467341 45.1289780567069))",TRANCABL0000000007469763,Transport par cable,Téléski,téléski des cimes
+"MULTIPOINT ((6.12772260456008 45.3924424518748))",TRANCABL0000000220880764,Transport par cable,Téléski,téléski du lac 1
+"MULTIPOINT ((5.84862089592797 45.0022615326272))",TRANCABL0000000007469901,Transport par cable,Téléski,téléski des pâtres
+"MULTIPOINT ((6.07091891173814 45.1249566942477))",TRANCABL0000000301509644,Transport par cable,Téléski,téléski de l'olmet
+"MULTIPOINT ((6.14574775969498 45.0090183197665))",TRANCABL0000000007469853,Transport par cable,Télésiège,télésiège de la voûte
+"MULTIPOINT ((6.12765566774504 45.3923893502135))",TRANCABL0000000007469606,Transport par cable,Téléski,téléski du lac 2
+"MULTIPOINT ((5.52065854305812 45.1274789930515))",TRANCABL0000002000248166,Transport par cable,Téléski,téléski écureuil
+"MULTIPOINT ((6.10549934484232 45.1279473925186))",TRANCABL0000000007469706,Transport par cable,"Télécabine, téléphérique",téléphérique alpette-rousses
+"MULTIPOINT ((5.85498458727271 45.0163363671242))",TRANCABL0000000007469898,Transport par cable,Télésiège,télésiège de la blache
+"MULTIPOINT ((5.5738068332323 45.0331417057622))",TRANCABL0000000007469923,Transport par cable,Téléski,téléski des jaux
+"MULTIPOINT ((5.52072880393704 45.1275413660623))",TRANCABL0000000296053414,Transport par cable,Téléski,téléski chatelard
+"MULTIPOINT ((5.57007833906354 45.0380186250625))",TRANCABL0000000007469921,Transport par cable,Téléski,téléski du refuge 3
+"MULTIPOINT ((6.12677995532897 45.0144468096777))",TRANCABL0000000301532345,Transport par cable,Téléski,téléski du petit bosquet
+"MULTIPOINT ((6.12619625638304 45.0080438923757))",TRANCABL0000000007469872,Transport par cable,Téléski,coolidge 1
+"MULTIPOINT ((5.83637612704237 45.363071850577))",TRANCABL0000000007469616,Transport par cable,Téléski,téléski des écureuils
+"MULTIPOINT ((6.04289748852761 45.2718941397968))",TRANCABL0000000246604195,Transport par cable,Téléski,téléski du soleil
+"MULTIPOINT ((6.06047139089234 45.0921456270309))",TRANCABL0000000007469807,Transport par cable,Télésiège,télésiège de la grande sure
+"MULTIPOINT ((6.02361523378365 45.2528799256077))",TRANCABL0000000007469649,Transport par cable,Télésiège,télésiège de l'éterlou
+"MULTIPOINT ((5.87629279447183 45.1020976396271))",TRANCABL0000000007469820,Transport par cable,Téléski,téléski totem 2
+"MULTIPOINT ((6.00549057565888 45.2471703614849))",TRANCABL0000000007469670,Transport par cable,Téléski,téléski de l'ardoisière
+"MULTIPOINT ((5.91992540444451 45.3596427358171))",TRANCABL0000000007469611,Transport par cable,Téléski,téléski des euilles
+"MULTIPOINT ((6.09497697867698 45.1402119830456))",TRANCABL0000000117243551,Transport par cable,Téléski,téléski lama
+"MULTIPOINT ((5.84508310447406 45.3510528215321))",TRANCABL0000000301530513,Transport par cable,Téléski,creux la neige
+"MULTIPOINT ((5.8013597460356 45.3152843960493))",TRANCABL0000000007469642,Transport par cable,Téléski,clot
+"MULTIPOINT ((6.09662547068319 45.1046783464921))",TRANCABL0000000007469707,Transport par cable,"Télécabine, téléphérique",télécabine des marmottes 2
+"MULTIPOINT ((5.83212134242723 45.000413279561))",TRANCABL0000000007469896,Transport par cable,Téléski,téléski des cloutons
+"MULTIPOINT ((5.9158545320517 45.1304291672534))",TRANCABL0000000007469721,Transport par cable,Télésiège,télésiège des lacs roberts
+"MULTIPOINT ((5.53848825918686 44.8919971374304))",TRANCABL0000000007469958,Transport par cable,Télésiège,télésiège du blanchon
+"MULTIPOINT ((5.58148810560875 45.2305669640777))",TRANCABL0000000007469692,Transport par cable,Téléski,téléski de la grande brèche 1
+"MULTIPOINT ((6.06837105183267 45.0955750180013))",TRANCABL0000000007469817,Transport par cable,Téléski,téléski du slalom
+"MULTIPOINT ((6.06837105183267 45.0955750180013))",TRANCABL0000000007469817,Transport par cable,Téléski,téléski du stade
+"MULTIPOINT ((5.85538172897155 45.0192912630479))",TRANCABL0000000007469906,Transport par cable,Télésiège,télésiège du serriou
+"MULTIPOINT ((5.87927954104149 45.1144885414372))",TRANCABL0000000007469736,Transport par cable,Téléski,téléski de la perche
+"MULTIPOINT ((6.09269192540512 45.1393445455219))",TRANCABL0000000007469698,Transport par cable,Téléski,téléski de l'alpette
+"MULTIPOINT ((6.11955013791715 45.0026581766901))",TRANCABL0000000007469876,Transport par cable,"Télécabine, téléphérique",télécabine de venosc
+"MULTIPOINT ((5.97662961039078 45.0109187509834))",TRANCABL0000000007469890,Transport par cable,Téléski,tékéski des côtes
+"MULTIPOINT ((5.97662961039078 45.0109187509834))",TRANCABL0000000007469890,Transport par cable,Téléski,téléski des côtes du col
+"MULTIPOINT ((5.57972082295073 45.2183239498232))",TRANCABL0000000007469690,Transport par cable,Téléski,téléski de la sure
+"MULTIPOINT ((5.48056826246701 45.1414052305966))",TRANCABL0000000007469770,Transport par cable,Téléski,ravat
+"MULTIPOINT ((5.48269356936793 45.1382166709128))",TRANCABL0000000007469760,Transport par cable,Téléski,la font
+"MULTIPOINT ((6.09121909150105 45.0804540331295))",TRANCABL0000000354644103,Transport par cable,Télésiège,télésiège des lombards
+"MULTIPOINT ((5.48464507024706 45.1423441627296))",TRANCABL0000000007469769,Transport par cable,Téléski,télékit
+"MULTIPOINT ((6.03181280724087 45.0951511428346))",TRANCABL0000000117243549,Transport par cable,Téléski,téléski de cloudit
+"MULTIPOINT ((6.0758667186962 45.0563166032206))",TRANCABL0000000007469783,Transport par cable,Téléski,télésiège piégut
+"MULTIPOINT ((6.0758667186962 45.0563166032206))",TRANCABL0000000007469783,Transport par cable,Téléski,téléski piégut
+"MULTIPOINT ((6.11772466434104 45.3956129867492))",TRANCABL0000000007469607,Transport par cable,Télésiège,télésiège du grand paul
+"MULTIPOINT ((6.06023630048752 45.099981517477))",TRANCABL0000000007469805,Transport par cable,Télésiège,télésiège du signal
+"MULTIPOINT ((5.87999554325554 45.12588844454))",TRANCABL0000000007469734,Transport par cable,Téléski,téléski de l'aiguille
+"MULTIPOINT ((5.63327952967221 45.1683522691722))",TRANCABL0000000007469747,Transport par cable,Téléski,téléski hote
+"MULTIPOINT ((6.07039198116393 45.1001508949845))",TRANCABL0000000007469713,Transport par cable,Téléski,téléski école 1
+"MULTIPOINT ((5.5300754351563 45.0179452373889))",TRANCABL0000000007469929,Transport par cable,Télésiège,télésiège de combeauvieux
+"MULTIPOINT ((6.0789473635283 45.1150819002605))",TRANCABL0000000007469696,Transport par cable,"Télécabine, téléphérique",télécabine du poutran
+"MULTIPOINT ((6.14868695019831 45.3863687781097))",TRANCABL0000000007469610,Transport par cable,Téléski,téléski du soleil
+"MULTIPOINT ((5.52706935400623 45.0248166889398))",TRANCABL0000000007469934,Transport par cable,Téléski,téléski rambin ii
+"MULTIPOINT ((6.20408183118851 44.9971069605906))",TRANCABL0000000007469848,Transport par cable,"Télécabine, téléphérique",ascenceur incliné du glacier
+"MULTIPOINT ((5.74677799630448 45.3052998581623))",TRANCABL0000000007469637,Transport par cable,Télésiège,télésiège du charmant som
+"MULTIPOINT ((6.13183050060223 45.0119637408042))",TRANCABL0000000007469882,Transport par cable,Télésiège,télésiège l'alpette
+"MULTIPOINT ((5.80253525561231 45.3164136500199))",TRANCABL0000000256712099,Transport par cable,Téléski,bambis
+"MULTIPOINT ((5.76821003373612 45.2903493194835))",TRANCABL0000000007469636,Transport par cable,Téléski,téléski de l'hôtel
+"MULTIPOINT ((5.84160049288948 45.3672625307314))",TRANCABL0000000007469617,Transport par cable,Téléski,téléski de la sauterelle
+"MULTIPOINT ((5.54750621511331 44.892697742258))",TRANCABL0000000296052060,Transport par cable,Téléski,téléski des bessards 2
+"MULTIPOINT ((6.01588040825166 45.2643156147689))",TRANCABL0000000007469665,Transport par cable,Télésiège,télécombi du grand cerf
+"MULTIPOINT ((5.77660164250809 45.2562135729435))",TRANCABL0000000007469673,Transport par cable,Téléski,la combe
+"MULTIPOINT ((5.98084645578504 45.0309067510389))",TRANCABL0000002005829730,Transport par cable,Téléski,téléski du clot de la mure
+"MULTIPOINT ((6.10077211131643 45.1540784676322))",TRANCABL0000000296503565,Transport par cable,Téléski,téléski de mont frais ii
+"MULTIPOINT ((6.10077211131643 45.1540784676322))",TRANCABL0000000296503565,Transport par cable,Téléski,téléski de montfrais ii
+"MULTIPOINT ((6.12701941202002 45.033061042406))",TRANCABL0000000007469863,Transport par cable,Télésiège,télésiège de mont-de-lans
+"MULTIPOINT ((6.07060271604684 45.0985907262488))",TRANCABL0000000347988564,Transport par cable,Télésiège,télémix des jeux
+"MULTIPOINT ((6.2219168027464 44.9979443520015))",TRANCABL0000000007469861,Transport par cable,Téléski,téléski de muretouse
+"MULTIPOINT ((5.99945425366277 45.2518370708543))",TRANCABL0000000221462237,Transport par cable,Téléski,téléski la piscine
+"MULTIPOINT ((6.20953899143381 44.9974146020311))",TRANCABL0000000324174996,Transport par cable,Téléski,téléski du dôme nord
+"MULTIPOINT ((6.20953899143381 44.9974146020311))",TRANCABL0000000324174996,Transport par cable,Téléski,dome nord
+"MULTIPOINT ((5.76283310374278 45.2968243570688))",TRANCABL0000000007469635,Transport par cable,Téléski,téléski de la pinéa
+"MULTIPOINT ((6.07552406835251 45.0915437162587))",TRANCABL0000000357247223,Transport par cable,Télésiège,télémix rifnel express
+"MULTIPOINT ((5.52520377328162 45.0278110876887))",TRANCABL0000000007469935,Transport par cable,Téléski,téléski rambin i
+"MULTIPOINT ((6.16675827255011 45.0041960854941))",TRANCABL0000000327489678,Transport par cable,Télésiège,le sautet
+"MULTIPOINT ((6.1726337100002 44.992713543345))",TRANCABL0000000301532346,Transport par cable,Téléski,envers
+"MULTIPOINT ((6.12653854888839 45.011466499683))",TRANCABL0000002000209731,Transport par cable,Téléski,téléski des limaçons
+"MULTIPOINT ((6.12585123671275 45.0086212689689))",TRANCABL0000002008274984,Transport par cable,Téléski,orée des pistes
+"MULTIPOINT ((5.97098724186329 45.0169234574235))",TRANCABL0000002008274982,Transport par cable,Téléski,baby
+"MULTIPOINT ((5.52656909515501 45.0279737868019))",TRANCABL0000000007469936,Transport par cable,Téléski,ribambelle
+"MULTIPOINT ((6.12889324249867 45.0081401811804))",TRANCABL0000000296096409,Transport par cable,Téléski,coolidge 2
+"MULTIPOINT ((5.56928465842909 45.0298634434151))",TRANCABL0000000007469916,Transport par cable,"Télécabine, téléphérique",télécabine cote 2000
+"MULTIPOINT ((6.11891627463999 45.0166336767841))",TRANCABL0000000007469862,Transport par cable,Télésiège,télésiège de la côte
+"MULTIPOINT ((5.57421039915608 45.0388501463119))",TRANCABL0000002003158982,Transport par cable,Téléski,téléski de font mirey
+"MULTIPOINT ((5.57421039915608 45.0388501463119))",TRANCABL0000002003158982,Transport par cable,Téléski,téléski ok technic
+"MULTIPOINT ((6.22442018386103 44.9974167412695))",TRANCABL0000002008274990,Transport par cable,Téléski,le col
+"MULTIPOINT ((5.88685710277648 45.1286257456714))",TRANCABL0000002008826897,Transport par cable,Télésiège,téléski de casserousse
+"MULTIPOINT ((5.88685710277648 45.1286257456714))",TRANCABL0000002008826897,Transport par cable,Télésiège,téléski de casse rousse
+"MULTIPOINT ((5.88685710277648 45.1286257456714))",TRANCABL0000002008826897,Transport par cable,Télésiège,télésiège de casserousse
+"MULTIPOINT ((6.01862303368893 45.2472209095094))",TRANCABL0000000007469671,Transport par cable,Télésiège,télésiège des chamois
+"MULTIPOINT ((6.08532628833109 45.078834161465))",TRANCABL0000000296503585,Transport par cable,Télésiège,télésiège de fontfroide
+"MULTIPOINT ((6.05374571588062 45.3316655146138))",TRANCABL0000002008262777,Transport par cable,Téléski,téléski des sources
+"MULTIPOINT ((5.60988015353301 45.1159011833506))",TRANCABL0000000296053371,Transport par cable,Téléski,téléski du grand jassinet
+"MULTIPOINT ((5.54730314590009 44.8935563731652))",TRANCABL0000000296052072,Transport par cable,Téléski,téléski du pras 1
+"MULTIPOINT ((6.07897445710514 45.1574261357554))",TRANCABL0000000007459325,Transport par cable,"Télécabine, téléphérique",téléphérique vaujany-alpette
+"MULTIPOINT ((6.0028873733436 45.2505148841505))",TRANCABL0000000007459209,Transport par cable,Téléski,téléski du plan 1
+"MULTIPOINT ((6.17452839138552 45.0141517014414))",TRANCABL0000002207383282,Transport par cable,"Télécabine, téléphérique",télécabine de pierre grosse
+"MULTIPOINT ((6.10378810800316 45.1182478517111))",TRANCABL0000000007469716,Transport par cable,"Télécabine, téléphérique",téléphérique du pic blanc
+"MULTIPOINT ((5.79570502193685 45.20351231594))",ROUTNOMM0000000338947081,Route,Voie verte,vv4
+"MULTIPOINT ((5.6283923657339 45.2289200147445))",ROUTNOMM0000000246496787,Route,Route nommée,draye de séblou
+"MULTIPOINT ((5.57878249789297 44.9877647676777))",ROUTNOMM0000002209679463,Route,Route nommée,route forestière des dus
+"MULTIPOINT ((5.69105749226014 45.3232365389658))",ROUTNOMM0000000246497489,Route,Route nommée,sentier de charminelle
+"MULTIPOINT ((5.47177586134873 45.0455926970776))",ROUTNOMM0000000245592265,Route,Route nommée,route forestière du fouillet
+"MULTIPOINT ((5.78964872093935 45.3207262754431))",ROUTNOMM0000000246498164,Route,Route nommée,chemin de saint-bruno
+"MULTIPOINT ((5.48361203907071 45.1545827579814))",ROUTNOMM0000000245511748,Route,Route nommée,route des écouges
+"MULTIPOINT ((5.66355854620284 45.0019081230711))",ROUTNOMM0000000246496967,Route,Route nommée,chemin de la crête
+"MULTIPOINT ((5.72132695617079 45.1934537387369))",ROUTNOMM0000000338946456,Route,Voie verte,vv2
+"MULTIPOINT ((5.59988132845015 45.022402802517))",ROUTNOMM0000000246486807,Route,Route nommée,route forestière des bordeaux
+"MULTIPOINT ((5.59348842032009 45.0279184172353))",ROUTNOMM0000000246486858,Route,Route nommée,sentier du périmètre
+"MULTIPOINT ((6.03339648572897 45.0437361254753))",ROUTNOMM0000000246497409,Route,Route nommée,chemin de ville noire
+"MULTIPOINT ((5.64491725313599 45.1586137846009))",ROUTNOMM0000000246498100,Route,Route nommée,sentier de la vie
+"MULTIPOINT ((5.71765764050655 44.7280035024103))",ROUTNOMM0000000245684441,Route,Route nommée,sentier de ronde
+"MULTIPOINT ((5.42824602397879 45.1060982133194))",ROUTNOMM0000000339093763,Route,Route nommée,route forestière des croisettes
+"MULTIPOINT ((5.42084249513156 45.0943152517028))",ROUTNOMM0000000339093764,Route,Route nommée,route forestière de pra l'étang
+"MULTIPOINT ((5.41096747378035 45.178942150094))",ROUTNOMM0000000339022651,Route,Route nommée,route du bac
+"MULTIPOINT ((5.449909142139 45.189254780129))",ROUTNOMM0000000342975519,Route,Route nommée,grande draie
+"MULTIPOINT ((5.49164437932831 45.1816051641846))",ROUTNOMM0000000339023613,Route,Route nommée,chemin du malade
+"MULTIPOINT ((5.54526478500676 45.0812830044785))",ROUTNOMM0000000246496964,Route,Route nommée,chemin du purgatoire
+"MULTIPOINT ((5.50176444469428 45.0384549344798))",ROUTNOMM0000000245585863,Route,Route nommée,route forestière des charbonnières
+"MULTIPOINT ((5.4998163990502 45.0542642467476))",ROUTNOMM0000000245585810,Route,Route nommée,route forestière pison
+"MULTIPOINT ((5.45569864622521 45.1273294925548))",ROUTNOMM0000000339032026,Route,Route nommée,route forestière du mont noir
+"MULTIPOINT ((5.47885974071289 45.0633140255491))",ROUTNOMM0000000245585829,Route,Route nommée,route forestière de la grande brèche
+"MULTIPOINT ((5.49427597927296 45.0372329700859))",ROUTNOMM0000000245585832,Route,Route nommée,route forestière de malaterre
+"MULTIPOINT ((5.49672146364314 45.0604386615945))",ROUTNOMM0000000245585815,Route,Route nommée,route forestière de château julien
+"MULTIPOINT ((5.50641958309161 45.1227407422126))",ROUTNOMM0000000339054260,Route,Route nommée,route forestière des murailles
+"MULTIPOINT ((5.49551749671221 45.1091869339898))",ROUTNOMM0000000245585767,Route,Route nommée,chemin des abeilles
+"MULTIPOINT ((5.50325348961004 45.1354914385764))",ROUTNOMM0000000339054259,Route,Route nommée,route forestière de pertuson
+"MULTIPOINT ((5.51130542893006 45.0462215761202))",ROUTNOMM0000000245592263,Route,Route nommée,route forestière galmiche
+"MULTIPOINT ((5.51273998507669 45.1616536279573))",ROUTNOMM0000000245511752,Route,Route nommée,sentier des cavales
+"MULTIPOINT ((5.51972467677111 45.1130908192186))",ROUTNOMM0000000245585765,Route,Route nommée,route forestière du cray
+"MULTIPOINT ((5.52369496230152 45.1109677654249))",ROUTNOMM0000000245557519,Route,Route nommée,route forestière des narces
+"MULTIPOINT ((5.54269336778758 45.1153944173467))",ROUTNOMM0000000245554204,Route,Route nommée,chemin de chabaud
+"MULTIPOINT ((5.54805999536931 45.1140539087788))",ROUTNOMM0000000246496962,Route,Route nommée,route forestière de serragnet
+"MULTIPOINT ((5.59221690668423 45.2069174134563))",ROUTNOMM0000000338787627,Route,Route nommée,sentier des génisses
+"MULTIPOINT ((5.53366950161364 45.2033982395124))",ROUTNOMM0000000245550123,Route,Route nommée,sentier de pierre taillée
+"MULTIPOINT ((5.54626103450778 45.1859967574181))",ROUTNOMM0000000245550115,Route,Route nommée,route forestière de gève
+"MULTIPOINT ((5.54072985196524 45.2004720838981))",ROUTNOMM0000000245550118,Route,Route nommée,route forestière des épérières
+"MULTIPOINT ((5.53695001453925 45.1991463483765))",ROUTNOMM0000000245550124,Route,Route nommée,route forestière de nave
+"MULTIPOINT ((5.55980239907551 45.2231813325724))",ROUTNOMM0000000246496785,Route,Route nommée,route forestière du cyclone
+"MULTIPOINT ((5.59244009960648 45.022865555094))",ROUTNOMM0000000246486783,Route,Route nommée,sentier de la pierre des deux heures
+"MULTIPOINT ((5.57949875231093 45.1388394354047))",ROUTNOMM0000000246496963,Route,Route nommée,chemin perrin
+"MULTIPOINT ((5.59340395137206 45.0220097993691))",ROUTNOMM0000000246486768,Route,Route nommée,sentier des bordeaux
+"MULTIPOINT ((5.65601407244724 45.1010114481768))",ROUTNOMM0000000246487277,Route,Route nommée,chemin de la garde
+"MULTIPOINT ((5.59146873307983 45.1065380561962))",ROUTNOMM0000000338740010,Route,Route nommée,route forestière des fayolles
+"MULTIPOINT ((5.61755982023734 45.2938942110603))",ROUTNOMM0000000338946453,Route,Voie verte,vv8
+"MULTIPOINT ((5.6067119604441 45.0670706405427))",ROUTNOMM0000000246486868,Route,Route nommée,sentier des deux cols
+"MULTIPOINT ((5.60406128020349 45.0882042989445))",ROUTNOMM0000000338740041,Route,Route nommée,chemin des anciens
+"MULTIPOINT ((5.6232012630985 45.0860679778192))",ROUTNOMM0000000246487182,Route,Route nommée,sentier du pas de l'ane
+"MULTIPOINT ((5.59835122030776 45.2389752237013))",ROUTNOMM0000000246496961,Route,Route nommée,chemin des bœufs
+"MULTIPOINT ((5.63917655254696 45.0858015371922))",ROUTNOMM0000000246487183,Route,Route nommée,chemin du marchand
+"MULTIPOINT ((5.65165329700397 44.9925053230566))",ROUTNOMM0000000354568106,Route,Route nommée,autoroute du trièves
+"MULTIPOINT ((5.63887857865944 45.1107464369219))",ROUTNOMM0000000338764421,Route,Route nommée,sentier du périmètre
+"MULTIPOINT ((5.57914410669303 45.1896922254155))",ROUTNOMM0000000246496715,Route,Route nommée,sentier des feneys
+"MULTIPOINT ((5.57681671683876 45.1858622090755))",ROUTNOMM0000000246496691,Route,Route nommée,sentier des combettes
+"MULTIPOINT ((5.58019171013683 45.1851797421246))",ROUTNOMM0000000246493550,Route,Route nommée,route forestière barthélemy
+"MULTIPOINT ((5.58883215032571 45.1936805813552))",ROUTNOMM0000000246496719,Route,Route nommée,route forestière de la molière
+"MULTIPOINT ((5.60181274206875 45.2402748699146))",ROUTNOMM0000000246496786,Route,Route nommée,chemin de fontrasset
+"MULTIPOINT ((5.69952265026551 44.912405447024))",ROUTNOMM0000000246498132,Route,Route nommée,route forestière de marcieu
+"MULTIPOINT ((5.6837412960977 45.2077966762607))",ROUTNOMM0000000338946451,Route,Voie verte,vv1
+"MULTIPOINT ((5.68398864825636 45.2076132454356))",ROUTNOMM0000000338946452,Route,Voie verte,vv5
+"MULTIPOINT ((5.71104446937717 45.2330683741438))",ROUTNOMM0000000246497413,Route,Route nommée,sentier des quatre couloirs
+"MULTIPOINT ((5.70301835574076 45.3624441760008))",ROUTNOMM0000000246498163,Route,Route nommée,sentier de l'état
+"MULTIPOINT ((5.73781411522661 45.2938771706406))",ROUTNOMM0000000246489726,Route,Route nommée,sentier vermorel
+"MULTIPOINT ((5.73402995237276 45.3634967928814))",ROUTNOMM0000000246497940,Route,Route nommée,chemin de none
+"MULTIPOINT ((5.75047440855103 45.3328134862307))",ROUTNOMM0000000246497904,Route,Route nommée,sentier de la cochette
+"MULTIPOINT ((5.77173530831413 45.4036736510931))",ROUTNOMM0000000229699176,Route,Route nommée,sentier de la vierge
+"MULTIPOINT ((5.88976212851297 45.1504873915048))",ROUTNOMM0000000246498154,Route,Route nommée,route de la gâte
+"MULTIPOINT ((5.87230376496345 44.7635309216917))",ROUTNOMM0000000245126967,Route,Route nommée,route forestière du sapey
+"MULTIPOINT ((5.96397848866319 44.7842947165726))",ROUTNOMM0000002007669684,Route,Route nommée,route forestière de l'ubac
+"MULTIPOINT ((5.8607306939669 45.0834684233509))",ROUTNOMM0000000246497414,Route,Route nommée,route forestière de fontroide
+"MULTIPOINT ((5.85089014777379 45.1263058048951))",ROUTNOMM0000000246497416,Route,Route nommée,chemin naclard
+"MULTIPOINT ((5.86153561780073 45.108789872035))",ROUTNOMM0000000246497433,Route,Route nommée,chemin rouast
+"MULTIPOINT ((5.83386128140647 45.0888726261871))",ROUTNOMM0000000245954517,Route,Route nommée,chemin vernet
+"MULTIPOINT ((5.86040407759265 45.0430488893149))",ROUTNOMM0000000246486674,Route,Route nommée,chemin eyriey
+"MULTIPOINT ((5.86380113576184 45.0324967162522))",ROUTNOMM0000000246498104,Route,Route nommée,chemin bonniot
+"MULTIPOINT ((5.85041451209556 45.1179054195023))",ROUTNOMM0000000246497417,Route,Route nommée,chemin d'aplomb
+"MULTIPOINT ((5.78916789550722 45.3711730668428))",ROUTNOMM0000000246496968,Route,Route nommée,chemin du pavé
+"MULTIPOINT ((5.81335549878604 45.374193707469))",ROUTNOMM0000000246497083,Route,Route nommée,sentier des moutons
+"MULTIPOINT ((5.93013624860082 44.8769616587337))",ROUTNOMM0000000245132473,Route,Route nommée,sentier des pères
+"MULTIPOINT ((5.94849866530546 45.3330762810301))",ROUTNOMM0000000246498210,Route,Route nommée,chemin de l'empereur
+"MULTIPOINT ((5.86780838596117 45.0399302225237))",ROUTNOMM0000000246486508,Route,Route nommée,chemin bégoud
+"MULTIPOINT ((5.88671010262814 45.0680859542368))",ROUTNOMM0000000246497436,Route,Route nommée,piste de l'atay
+"MULTIPOINT ((5.95462808196045 45.1037398143285))",ROUTNOMM0000000246493439,Route,Route nommée,sentier mengin
+"MULTIPOINT ((5.87885290152142 45.1606995138348))",ROUTNOMM0000000246498155,Route,Route nommée,route forestière de montrond
+"MULTIPOINT ((6.03887493286716 45.0517493571772))",ROUTNOMM0000000338279438,Route,Route nommée,chemin du plan
+"MULTIPOINT ((6.01231527920412 45.1093489403148))",ROUTNOMM0000000338248244,Route,Route nommée,chemin de baptiston
+"MULTIPOINT ((5.99261014309963 45.074677793643))",ROUTNOMM0000002005844273,Route,Voie verte,chemin d'oulles
+"MULTIPOINT ((6.00484034317513 45.1344964403602))",ROUTNOMM0000000246498103,Route,Route nommée,chemin ferret
+"MULTIPOINT ((6.00703840595854 45.1315555984859))",ROUTNOMM0000000246498211,Route,Route nommée,chemin de chabotte
+"MULTIPOINT ((6.01468123961753 45.0913116241024))",ROUTNOMM0000000246498161,Route,Route nommée,chemin de l'ordre
+"MULTIPOINT ((6.01347652183837 45.0994987475078))",ROUTNOMM0000000246498160,Route,Route nommée,chemin de priole
+"MULTIPOINT ((6.02443874774206 45.1260813468108))",ROUTNOMM0000000246498099,Route,Route nommée,chemin de saint-jean
+"MULTIPOINT ((6.02380200038217 44.8686498416261))",ROUTNOMM0000000245126985,Route,Route nommée,chemin des troupeaux
+"MULTIPOINT ((6.02198098875875 44.8865509850778))",ROUTNOMM0000000245132479,Route,Route nommée,sentier du facteur
+"MULTIPOINT ((6.04013169309843 44.8671378396381))",ROUTNOMM0000000356600152,Route,Route nommée,ancien canal de la douy
+"MULTIPOINT ((6.03042397689215 45.153473557715))",ROUTNOMM0000000246498162,Route,Route nommée,chemin des bœufs
+"MULTIPOINT ((6.03680656128221 45.0483033972428))",ROUTNOMM0000000246497408,Route,Route nommée,chemin du paradis
+"MULTIPOINT ((6.04818487279004 45.1225791192531))",ROUTNOMM0000000246498131,Route,Route nommée,chemin des blaches
+"MULTIPOINT ((6.057734253955 45.1147593585146))",ROUTNOMM0000000229692904,Route,Route nommée,chemin des combes
+"MULTIPOINT ((6.09870495780441 44.8741344126673))",ROUTNOMM0000000356600153,Route,Route nommée,ancien canal des charmettes
+"MULTIPOINT ((6.06645791597132 45.1433534973491))",ROUTNOMM0000000229690215,Route,Route nommée,chemin de la rompure
+"MULTIPOINT ((5.59163404922713 45.0450474853873))",ROUTNOMM0000000246486867,Route,Route nommée,sentier péronnard
+"MULTIPOINT ((6.06747481535634 45.1636315916302))",ROUTNOMM0000000229692775,Route,Route nommée,chemin des escaliers
+"MULTIPOINT ((6.08321186339269 45.0337984010021))",ROUTNOMM0000000229690391,Route,Route nommée,chemin de la cheminée
+"MULTIPOINT ((6.10612468990573 45.0529481992396))",ROUTNOMM0000000229699039,Route,Route nommée,chemin du lauzat
+"MULTIPOINT ((6.11119841980931 45.0834679443166))",ROUTNOMM0000000229641058,Route,Route nommée,rampe des mules
+"MULTIPOINT ((6.09585612472546 45.3751363276061))",ROUTNOMM0000000229690389,Route,Route nommée,chemin des douaniers
+"MULTIPOINT ((6.10085876805828 45.4239582066487))",ROUTNOMM0000000229648479,Route,Route nommée,chemin des pupines
+"MULTIPOINT ((6.11945808046075 45.3857232080675))",ROUTNOMM0000000229698684,Route,Route nommée,route forestière du pas du bœuf
+"MULTIPOINT ((5.51750823643079 45.09673267939))",ROUTNOMM0000000339093957,Route,Route nommée,route forestière de l'alpe
+"MULTIPOINT ((6.29141221128778 44.9760436046545))",ROUTNOMM0000000245132480,Route,Route nommée,sentier de la gandolière
+"MULTIPOINT ((5.75030570518436 45.3605826086399))",ROUTNOMM0000000246497922,Route,Route nommée,sentier de la galère
+"MULTIPOINT ((6.10064453338584 45.0847389731117))",ROUTNOMM0000002150475160,Route,Route nommée,la voie de brande
+"MULTIPOINT ((5.50723064222549 45.0606394892109))",ROUTNOMM0000000245585828,Route,Route nommée,chemin de croix de valchevrière
+"MULTIPOINT ((6.00375955507223 45.1083589222569))",ROUTNOMM0000002150475096,Route,Route nommée,ancienne voie romaine
+"MULTIPOINT ((5.59892223571074 45.0283114790899))",ROUTNOMM0000000246486835,Route,Route nommée,piste du col vert
+"MULTIPOINT ((5.60557345649747 45.0057315472066))",ROUTNOMM0000000246496966,Route,Route nommée,chemin de talerand
+"MULTIPOINT ((5.59916923862626 45.0122639616047))",ROUTNOMM0000000246496965,Route,Route nommée,route forestière de chaussonneyre
+"MULTIPOINT ((5.60048510033041 45.0751322261399))",ROUTNOMM0000000246487184,Route,Route nommée,sentier gobert
+"MULTIPOINT ((5.82283346646731 45.3651485786222))",ROUTNOMM0000000246497087,Route,Route nommée,sentier racapé
+"MULTIPOINT ((5.75618280329218 45.3465077909245))",ROUTNOMM0000000246497920,Route,Route nommée,route forestière de la charmette
+"MULTIPOINT ((5.749010098007 45.370393823379))",ROUTNOMM0000000246498098,Route,Route nommée,route du désert
+"MULTIPOINT ((5.7413330806651 45.1916344162309))",ROUTNOMM0000000338946455,Route,Voie verte,vv3
+"MULTIPOINT ((5.6888237782378 45.1433123752223))",ROUTNOMM0000002207138868,Route,Voie verte,v64
+"MULTIPOINT ((5.70031972248012 45.1598848517846))",ROUTNOMM0000000338946019,Route,Voie verte,vv6
+"MULTIPOINT ((5.58127770554838 45.2072320912089))",ROUTNOMM0000000338787626,Route,Route nommée,sentier de plénouze
+"MULTIPOINT ((5.50515820637864 45.1190710746867))",ROUTNOMM0000000245585766,Route,Route nommée,route forestière du vachat
+"MULTIPOINT ((5.58693528808852 45.2200769066791))",ROUTNOMM0000000246496731,Route,Route nommée,route forestière des feneys
+"MULTIPOINT ((5.86427345975442 45.1331905933712))",ROUTNOMM0000000338245086,Route,Route nommée,sentier d'aplomb
+"MULTIPOINT ((5.43545746585967 45.1127295303232))",ROUTNOMM0000002205407148,Route,Route nommée,route forestière des quatres chemins
+"MULTIPOINT ((5.52237061585448 44.9395102127034))",ROUTNOMM0000000341567320,Route,Route nommée,le ranc traversier
+"MULTIPOINT ((5.4965424517118 45.1035381750409))",ROUTNOMM0000002205554302,Route,Route nommée,route forestière des abeilles
+"MULTIPOINT ((5.68527415107444 45.2088481618047))",ROUTNOMM0000000338947119,Route,Voie verte,vv7
+"MULTIPOINT ((5.50110787281208 45.048952728808))",ROUTNOMM0000000245585833,Route,Route nommée,route forestière de la grande allée
+"MULTIPOINT ((5.84110361373979 45.4126017313527))",ROUTNOMM0000000315845984,Route,Route nommée,circuit du château
+"MULTIPOINT ((6.01350961874632 45.1056583661552))",ROUTNOMM0000000338248245,Route,Route nommée,chemin des argentiers
+"MULTIPOINT ((5.44612543938047 45.1899224064882))",ROUTNOMM0000000339146845,Route,Route nommée,draie des fontenettes
+"MULTIPOINT ((5.62305259550904 45.1589966605501))",ROUTNOMM0000000338651922,Route,Route nommée,route du bois des mûres
+"MULTIPOINT ((5.68054241245592 45.1791741563951))",ROUTNOMM0000000246490917,Route,Route nommée,chemin du génie
+"MULTIPOINT ((6.17050533267059 45.0729017424227))",ROUTNOMM0000002207383516,Route,Route nommée,voie du tetas
+"MULTIPOINT ((5.57281005493117 45.2230356194364))",ROUTNOMM0000000246496779,Route,Route nommée,route forestière de la grande brèche
+"MULTIPOINT ((5.74200270165855 45.3465857578833))",ROUTNOMM0000000246497921,Route,Route nommée,chemin de la petite vache
+"MULTIPOINT ((5.72573867042258 45.3724664353393))",ROUTNOMM0000000246498081,Route,Route nommée,sentier du folatier
+"MULTIPOINT ((6.03644733208277 45.125295383402))",ROUTNOMM0000002206996332,Route,Voie verte,voie verte de l'oisans
+"MULTIPOINT ((5.88772394322779 44.8344523629998))",ROUTNOMM0000000008100660,Route,Route nommée,route napoléon
+"MULTIPOINT ((6.21338246482629 44.9964025106544))",VOIEFERR0000000320312715,Voie ferrée,,funiculaire du dôme express
+"MULTIPOINT ((5.89328366943529 45.3047154122971))",VOIEFERR0000000320312678,Voie ferrée,,funiculaire de saint-hilaire-du-touvet
