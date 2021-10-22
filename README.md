@@ -42,6 +42,16 @@ de repère a été réalisée.
 ![png](https://github.com/ANRChoucas/GeoGraph_1.0/blob/main/img/modele_geograph_2_0.png)
 
 
+# Données 
+
+Les données importées concernent les données du département de l'Isère (38):
+* la zone d'étude du projet CHOUCAS, les massifs alpins de la zone d'étude. 
+Ces données ont été construites dans le cadre de ce projet.
+* 
+
+
+
+
 # Guide d'installation
 
 ## Installation de neo4j
@@ -76,16 +86,20 @@ Ca y est, maintenant la base est prête à être chargée.
 
 4. Exécuter les scripts de chargement:
 
-| Script          | Données chargées                                                                       |
-| --------------- | -------------------------------------------------------------------------------------- |
-| 0_CONFIG.cypher                   | Créer des couches spatiales vides, les contraintes et les index de la base de données. |
-| 1_DATA_MASSIF_ZE.cypher           | Intégrer les contours des massifs  |
-| 2_1_PNR_VERCORS_2018.cypher       | Intégrer les POI du site https://rando.parc-du-vercors.fr |
-| 2_2_PN_ECRINS_2018.cypher         | Intégrer les POI du site https://rando.ecrins-parcnational.fr/ |
-| 2_3_REFUGES_INFO_2018.cypher      | Intégrer les POI du site https://www.refuges.info/ |
-| 2_4_ITI_PARCS_2018.cypher         | Intégrer les itinéraires des parcs (Vercors et Ecrins) recalés sur le réseau de la BDTOPO.  |
-| 2_5_ITI_VISORANDO_2018.cypher     | Intégrer les itinéraires de https://www.visorando.com/ recalés sur le réseau de la BDTOPO.  |
-| 2_6_C2C_2021.cypher               | Intégrer les POIS et les route du site https://www.camptocamp.org/ |
+| Script                         | Données chargées                                                                       |
+| -------------------------------| -------------------------------------------------------------------------------------- |
+| 0_CONFIG.cypher                | Créer des couches spatiales vides, les contraintes et les index de la base de données. |
+| 1_DATA_MASSIF_ZE.cypher        | Intégrer les contours des massifs  |
+| 2_1_PNR_VERCORS_2018.cypher    | Intégrer les POI du site https://rando.parc-du-vercors.fr |
+| 2_2_PN_ECRINS_2018.cypher      | Intégrer les POI du site https://rando.ecrins-parcnational.fr/ |
+| 2_3_REFUGES_INFO_2018.cypher   | Intégrer les POI du site https://www.refuges.info/ |
+| 2_4_ITI_PARCS_2018.cypher      | Intégrer les itinéraires des parcs (Vercors et Ecrins) recalés sur le réseau de la BDTOPO.  |
+| 2_5_ITI_VISORANDO_2018.cypher  | Intégrer les itinéraires de https://www.visorando.com/ recalés sur le réseau de la BDTOPO.  |
+| 2_6_C2C_2021.cypher            | Intégrer les POIS et les route du site https://www.camptocamp.org/ |
+| 2_7_OSM_2018.cypher            | Intégrer les stations de ski d'OSM https://www.openstreetmap.org |
+| 2_8_ENEDIS_2018.cypher         | Intégrer les lignes électriques d'ENEDIS https://www.enedis.fr/open-data |
+| 2_9_BDTOPO_2021.cypher         | Intégrer les données de la BDTOPO |
+
 
 | 2_1_OOR_import_et_corrections.cypher | Intègre l’OOR |
 | 2_2_OOR_instanciation.cypher | Création des relations _:isInstanceOf_ entre les _:ObjetGeo_ en base et les classes de l’ontologie _:ClassOOR_ |
@@ -93,10 +107,6 @@ Ca y est, maintenant la base est prête à être chargée.
 | 3.1.appariements multicriteres POI et ITI.cypher | importe la sélection des appariements calculés sur les données 2018, si les objet 2021 ont le même nom, le même type et la même géométrie |
 
 
-Les données importées concernent les données du département de l'Isère (38):
-* la zone d'étude du projet CHOUCAS, les massifs alpins de la zone d'étude. 
-Ces données ont été construites dans le cadre de ce projet.
-* 
 
 
 ## Affichage de GeoGraph dans QGis
