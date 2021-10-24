@@ -104,11 +104,7 @@ Ca y est, maintenant la base est prête à être chargée.
 | 3_01_BDTOPO_CREATION_TOPONYME.cypher  | Création des noeuds Toponymes à partir des objets de repères et des nymies |
 | 3_02_OOR_import_et_corrections.cypher | Intègre l’OOR |
 | 3_03_OOR_instanciation.cypher         | Création des relations _:isInstanceOf_ entre les _:ObjetGeo_ en base et les classes de l’ontologie _:ClassOOR_ |
-
-| 2.3.selectionClass.import.cypher créer les noeuds :ClassSelection et les rattachent par une relation :isEquivalentTo à la :ClassOOR correspondante |
-| 3.1.appariements multicriteres POI et ITI.cypher | importe la sélection des appariements calculés sur les données 2018, si les objet 2021 ont le même nom, le même type et la même géométrie |
-
-
+| 3_04_appariements_POI_et_ITI.cypher   | importe la sélection des appariements calculés sur les données 2018, si les objet 2021 ont le même nom, le même type et la même géométrie |
 
 
 ## Affichage de GeoGraph dans QGis
