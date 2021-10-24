@@ -34,55 +34,42 @@ merge (o)-[:hasGeometry]->(node)
 // 2. routes
 
 // import des routes avec liens vers waypoints - les waypoints doivent exister dans la BD
-:param importFile => "c2c.v2021.routesDetails.json";
-call apoc.load.json($importFile) YIELD value
-UNWIND value.documents as item
+:param importFile => "2_07_C2C_ROUTE_2021.csv";
+call apoc.load.csv($importFile) YIELD map
+call spatial.addWKT("lines",map.WKT) yield node 
+with distinct map.id as id, map, node													   
 create (iti:ObjetGeo:ObjetRepère:ITI:sourceC2c:v2021 {
-	name: coalesce([loc in item.locales where loc.lang="fr" |loc.title][0],item.locales[0].title) ,
-	id:"ITI."+item.document_id,
+	name: map.name,
+	id:"ITI."+map.id,
 	importFile:$importFile,
 	creationDateTime:localdatetime({ timezone: 'Europe/Paris' }),
 	creationType:"import",
-	altitudeMax:item.elevation_max,
-	altitudeMin:item.elevation_min,
-	type:item.waypoint_type,
-	quality:item.quality,
-	heightDiffUp:item.height_diff_up,
-	mainWaypointId:item.main_waypoint_id,
-	recentOutingsNb:item.recent_outings.total,
-	activities: item.activities,
-	routeTypes:item.route_types
+	mainWaypointId:map.main_waypoint_id,
+	activities: map.activities,
+	routeTypes:map.route_types
 })
-WITH iti,item.associations.waypoints as waypoints
-UNWIND waypoints as wp
-match (poi:sourceC2c:POI:v2021 {id:"POI."+toString(wp.document_id)})
-	create (iti)<-[:c2cAssociation {importFile:$importFile,creationDateTime:localdatetime({ timezone: 'Europe/Paris' }),creationType:"import"}]-(poi);
-// GG.2.0 Added 8965 labels, created 1793 nodes, set 32358 properties, created 3806 relationships, completed after 3519 ms.
+WITH iti,map.waypoints as waypoints
+UNWIND apoc.convert.fromJsonList(waypoints) as r
+match (poi:sourceC2c:POI:v2021 {id:"POI."+toString(r)})
+	create (iti) <-[:c2cAssociation {importFile:$importFile,creationDateTime:localdatetime({ timezone: 'Europe/Paris' }),creationType:"import"}]-(poi);
+// Added 3185 labels, created 637 nodes, set 10640 properties, created 1848 relationships, completed after 17229 ms.
+	
 
-// export en geojson pour conversion des géométries en 4326
-// CALL apoc.export.csv.query('call apoc.load.json("c2c.v2021.routesDetails.json") YIELD value 
-// UNWIND value.documents as item
-// return {type: "Feature",
-//		properties: {id:item.document_id,name:coalesce([loc in item.locales where loc.lang="fr" |loc.title][0],item.locales[0].title)},
-//		geometry: {type: item.geometry.geom_detail.type, coordinates: item.geometry.geom_detail.coordinates }
-//}
-// ','c2c.routesDetails.2geojson.csv', {delim: ',',quotes:false, format: 'plain'});
- 
-// import des géométries en 4326 et suppression des objets hors zone d'étude (sans geom car pas dans fichier import geom)
-:param importFile => "c2c.v2021.routesDetails.ZoneEtude.WKT.csv";
+// import des géométries en 4326 et suppression des objets hors zone d'étude 
+// (sans geom car pas dans fichier import geom)
+:param importFile => "2_07_C2C_ROUTE_2021.csv";
 call apoc.load.csv($importFile) YIELD map
 call spatial.addWKT("lines",map.WKT) yield node 
 with node, map
 match (o:sourceC2c:ITI:v2021 {id:"ITI."+toString(map.id)})
 merge (o)-[:hasGeometry]->(node)
-	on create set node:geom:Tech, node.creationDateTime=localdatetime({ timezone: 'Europe/Paris' }),node.creationType="import";
-
-// GG.2.0 Added 2614 labels, set 2614 properties, created 1307 relationships, completed after 40055 ms.
-
-// suppression des noeuds hors ZoneEtude i.e. sans geom
-// match (n:sourceC2c:v2021) where not exists((n)--(:geom)) return count(n);
-// match (n:sourceC2c:v2021:ITI) where not exists((n)--(:geom)) and exists ((n)--()) return count(n) -> 2
+	on create set node:geom:Tech, 
+				node.creationDateTime=localdatetime({ timezone: 'Europe/Paris' }),
+				node.creationType="import";
+// Added 1274 labels, set 1274 properties, created 637 relationships, completed after 13690 ms.
+	
 
 match (n:sourceC2c:v2021) where not exists((n)--(:geom)) delete n;
-// old 2.0 Deleted 2992 nodes (POI+ITI), completed after 60 ms.
-// GG.2.0 ITI Deleted 486 nodes, deleted 2 relationships, completed after 19 ms.
+
+													   
+													   
