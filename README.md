@@ -7,10 +7,7 @@
 - Copyright (C) 2021 Institut National de l'Information Géographique et Forestière 
 
 - Ce travail a été réalisé dans le cadre du projet CHOUCAS, projet financé par l’ANR.
-Pour de plus amples information:
-   * [Site web](http://choucas.ign.fr/) 
-   * [Projet CHOUCAS] (https://hal.archives-ouvertes.fr/hal-01649156/file/Choucas_Sage_o2017_resoumis1509.pdf) Intégration de 
-données hétérogènes et raisonnement spatial pour l'aide à la localisation des victimes en montagne
+Pour de plus amples information [Site web](http://choucas.ign.fr/) 
 
 
 ## Authors
