@@ -46,7 +46,7 @@ Les données importées concernent les données du département de l'Isère (38)
 * la zone d'étude du projet CHOUCAS, les massifs alpins de la zone d'étude. 
 
 Ces données ont été construites dans le cadre de ce projet.
-* 
+
 
 
 
@@ -123,7 +123,10 @@ en tant que couche de données spatiales. Le script n'est pas robuste, il s'adre
 qui savent modifier du python.
 
 
-## Affichage de GeoGraph 1.0 dans QGis
+## Affichage de GeoGraph 1.0 dans Browser
+
+Dans le browser Neo4j il suffit de glisser et déposer le fichier _GeoGraph.2.0.grass_ dans le browser Neo4j, 
+pour retrouver le style (couleurs, taille. . . ) des noeuds utilisés dans le papier à l'ICC.
 
 
 
