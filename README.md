@@ -1,6 +1,6 @@
 # GeoGraph 1.0
 
-## _Development & Contributions_
+# _Développements et contribution_
 
 - Licence du contenu du dépôt git: [CC BY-ND 4.0](LICENSE)
 
@@ -9,11 +9,7 @@
 - Ce travail a été réalisé dans le cadre du projet CHOUCAS, projet financé par l’ANR.
 Pour de plus amples information [Site web](http://choucas.ign.fr/) 
 
-
-## Authors
-
-Contributeur: Véronique Gendner
-
+- Contributeur: Véronique Gendner
 
 # Plan
 - [Introduction](#Introduction)
