@@ -85,13 +85,6 @@ International Journal of Cartography, 5:2-3, 195-213, DOI: 10.1080/23729333.2019
 | Visorando        | 2018       | https://www.visorando.com/ |
 
 
-		
-		
-		
-		
-
-
-
 # Installation
 
 ## Installation de neo4j
