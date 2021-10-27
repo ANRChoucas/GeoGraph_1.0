@@ -49,12 +49,46 @@ de repère a été réalisée.
 
 # Données 
 
-Les données importées concernent les données du département de l'Isère (38):
-* la zone d'étude du projet CHOUCAS, les massifs alpins de la zone d'étude. 
+Les données importées concernent les données du département de l'Isère (département 38) 
+de la zone d'étude du projet CHOUCAS. Elles ont été téléchargées, traitées et intégrées.
 
-Ces données ont été construites dans le cadre de ce projet.
+**Quels traitements ?**
+
+Les itinéraires téléchargés des sources de Rando.ecrins, Rando.Vercors, Visorando et Camptocamp
+ont été recalés sur le réseau de la BDTOPO afin de construire un réseau d'itinéraires (voir [1]). 
+C'est la géométrie des tronçons qui a été intégrée dans la base.
+
+Les toponymes ont été intégrés tels que renseignés dans les sources. Leurs géométries ont été transformées en WGS84.
+
+La détection des liens d'appariement des objets de repères des différentes sources de données 
+ont été réalisés grâce à un algorithme d'appariement multi-critères. La méthode et les résultats sont détaillés dans [1].
+
+**Biblio:**
+
+[1] Marie-Dominique Van Damme, Ana-Maria Olteanu-Raimond & Yann Méneroux (2019) 
+Potential of crowdsourced data for integrating landmarks and routes for rescue in mountain areas, 
+International Journal of Cartography, 5:2-3, 195-213, DOI: 10.1080/23729333.2019.1615730 
 
 
+
+
+| Données          | Date du téléchargement ou création | Source  |
+| -----------------| ---------------------------------- | -------- |
+| projet CHOUCAS   | 2018       | Interne   |
+| BDTOPO           | 2021       | https://www.data.gouv.fr/fr/datasets/bd-topo-r/ |
+| Camptocamp       | 2021       | https://www.camptocamp.org/ |
+| Rando.Ecrins     | 2018       | https://rando.ecrins-parcnational.fr/ |
+| Rando.Vercors    | 2018       | https://rando.parc-du-vercors.fr |
+| Refuges.info     | 2018       | https://www.refuges.info/ |
+| Openstreetmap    | 2021       | https://www.openstreetmap.org |
+| Enedis           | 2021       | https://www.enedis.fr/open-data |
+| Visorando        | 2018       | https://www.visorando.com/ |
+
+
+		
+		
+		
+		
 
 
 
@@ -96,14 +130,14 @@ Ca y est, maintenant la base est prête à être chargée.
 | --------------------------------------| -------------------------------------------------------------------------------------- |
 | 0_CONFIG.cypher                       | Créer des couches spatiales vides, les contraintes et les index de la base de données. |
 | 1_DATA_MASSIF_ZE.cypher               | Intégrer les contours des massifs  |
-| 2_01_PNR_VERCORS_2018.cypher          | Intégrer les POI du site https://rando.parc-du-vercors.fr |
-| 2_02_PN_ECRINS_2018.cypher            | Intégrer les POI du site https://rando.ecrins-parcnational.fr/ |
-| 2_03_REFUGES_INFO_2018.cypher         | Intégrer les POI du site https://www.refuges.info/ |
+| 2_01_PNR_VERCORS_2018.cypher          | Intégrer les POI et les itinéraires du Parc Régional du Vercors |
+| 2_02_PN_ECRINS_2018.cypher            | Intégrer les POI et les itinéraires du Parc National des Ecrins |
+| 2_03_REFUGES_INFO_2018.cypher         | Intégrer les POI du site Refuges.info |
 | 2_04_ITI_PARCS_2018.cypher            | Intégrer les itinéraires des parcs (Vercors et Ecrins) recalés sur le réseau de la BDTOPO.  |
-| 2_05_ITI_VISORANDO_2018.cypher        | Intégrer les itinéraires de https://www.visorando.com/ recalés sur le réseau de la BDTOPO.  |
-| 2_06_C2C_2021.cypher                  | Intégrer les POIS et les route du site https://www.camptocamp.org/ |
-| 2_07_OSM_2018.cypher                  | Intégrer les stations de ski d'OSM https://www.openstreetmap.org |
-| 2_08_ENEDIS_2018.cypher               | Intégrer les lignes électriques d'ENEDIS https://www.enedis.fr/open-data |
+| 2_05_ITI_VISORANDO_2018.cypher        | Intégrer les itinéraires de Visorando recalés sur le réseau de la BDTOPO.  |
+| 2_06_C2C_2021.cypher                  | Intégrer les POIS et les route |
+| 2_07_OSM_2018.cypher                  | Intégrer les stations de ski d'OSM |
+| 2_08_ENEDIS_2018.cypher               | Intégrer les lignes électriques d'ENEDIS |
 | 2_09_BDTOPO_POINT_2021.cypher         | Intégrer les données ponctuelles et les toponymes de la BDTOPO |
 | 2_10_BDTOPO_LIGNE_2021.cypher         | Intégrer les données linéraires de la BDTOPO |
 | 2_11_BDTOPO_SURFACE_2021.cypher       | Intégrer les données surfaciques de la BDTOPO |
