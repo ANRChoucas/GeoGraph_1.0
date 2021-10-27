@@ -2,21 +2,21 @@
 
 ## _Development & Contributions_
 
-License:  TODO
+License du contenu du dépôt git: [CC BY-ND 4.0](LICENSE)
 
-Institute: IGN + ANR
+Institute: © Copyright 2017-2022 IGN + ANR
 
 ### Authors
 
-Développeur: Véronique Gendner
-
-Encadrants: Marie-Dominique Van Damme, Ana-Maria Raimond
+Contributeur: Véronique Gendner
 
 
 # Plan
 - [Introduction](#Introduction)
 - [Modélisation](#Modélisation)
-- [Installation](#Installation)
+- [Données](#Données)
+- [Guide d'installation](#Guide d'installation)
+- [Affichage de GeoGraph](#Affichage de GeoGraph)
 
 
 # Introduction
@@ -34,8 +34,6 @@ l'ontologie des objets de repères [OOR](http://choucas.ign.fr/doc/ontologies/in
 Pour y arriver, un travail d’appariement des schémas des différentes sources de données sur l’ontologie des objets 
 de repère a été réalisée.
 
-> Ref: papier à l'ICC 2021
-
 
 # Modélisation
 
@@ -46,6 +44,7 @@ de repère a été réalisée.
 
 Les données importées concernent les données du département de l'Isère (38):
 * la zone d'étude du projet CHOUCAS, les massifs alpins de la zone d'étude. 
+
 Ces données ont été construites dans le cadre de ce projet.
 * 
 
@@ -107,13 +106,24 @@ Ca y est, maintenant la base est prête à être chargée.
 | 3_04_appariements_POI_et_ITI.cypher   | importe la sélection des appariements calculés sur les données 2018, si les objet 2021 ont le même nom, le même type et la même géométrie |
 
 
-## Affichage de GeoGraph dans QGis
+## 2ème option - Chargement du dump
+
+Le plus rapide et le plus simple est d’installer GeoGraph 1.0 à partir du fichier dump dès que la base de données est installée:
+_dump/gg-1-0-neo4j-2021-10-27T074642.dump_
+
+Pour des raisons d'espace autorisé sur github (100Mo), certaines données (lignes électriques et pylones) 
+ont été supprimées du dump.
+
+# Affichage de GeoGraph 
+
+## Affichage de GeoGraph 1.0 dans QGis
 
 Le script _QgisQueryGeoGraph.py_ permet d'afficher des résultats de requête cypher dans QGis 
 en tant que couche de données spatiales. Le script n'est pas robuste, il s'adresse aux personnes 
 qui savent modifier du python.
 
 
+## Affichage de GeoGraph 1.0 dans QGis
 
 
 
