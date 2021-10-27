@@ -2,11 +2,18 @@
 
 ## _Development & Contributions_
 
-License du contenu du dépôt git: [CC BY-ND 4.0](LICENSE)
+- Licence du contenu du dépôt git: [CC BY-ND 4.0](LICENSE)
 
-Institute: © Copyright 2017-2022 IGN + ANR
+- ©Copyright IGN
 
-### Authors
+- Ce travail a été réalisé dans le cadre du projet CHOUCAS, projet financé par l’ANR.
+
+- Pour de plus amples information:
+* [Site web](http://choucas.ign.fr/) 
+* [Projet CHOUCAS : Intégration de données hétérogènes et raisonnement spatial pour l'aide à la localisation des victimes en montagne ] (https://hal.archives-ouvertes.fr/hal-01649156/file/Choucas_Sage_o2017_resoumis1509.pdf)
+
+
+## Authors
 
 Contributeur: Véronique Gendner
 
@@ -15,8 +22,8 @@ Contributeur: Véronique Gendner
 - [Introduction](#Introduction)
 - [Modélisation](#Modélisation)
 - [Données](#Données)
-- [Guide d'installation](#Guide d'installation)
-- [Affichage de GeoGraph](#Affichage de GeoGraph)
+- [Guide d'installation](#Installation)
+- [Affichage de GeoGraph](#Affichage)
 
 
 # Introduction
@@ -51,7 +58,7 @@ Ces données ont été construites dans le cadre de ce projet.
 
 
 
-# Guide d'installation
+# Installation
 
 ## Installation de neo4j
 
@@ -114,7 +121,7 @@ _dump/gg-1-0-neo4j-2021-10-27T074642.dump_
 Pour des raisons d'espace autorisé sur github (100Mo), certaines données (lignes électriques et pylones) 
 ont été supprimées du dump.
 
-# Affichage de GeoGraph 
+# Affichage
 
 ## Affichage de GeoGraph 1.0 dans QGis
 
