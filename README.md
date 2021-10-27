@@ -10,7 +10,8 @@
 
 - Pour de plus amples information:
 * [Site web](http://choucas.ign.fr/) 
-* [Projet CHOUCAS : Intégration de données hétérogènes et raisonnement spatial pour l'aide à la localisation des victimes en montagne ] (https://hal.archives-ouvertes.fr/hal-01649156/file/Choucas_Sage_o2017_resoumis1509.pdf)
+* [Projet CHOUCAS] (https://hal.archives-ouvertes.fr/hal-01649156/file/Choucas_Sage_o2017_resoumis1509.pdf) Intégration de 
+données hétérogènes et raisonnement spatial pour l'aide à la localisation des victimes en montagne
 
 
 ## Authors
