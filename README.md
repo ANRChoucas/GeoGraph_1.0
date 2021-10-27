@@ -69,8 +69,7 @@ ont été réalisés grâce à un algorithme d'appariement multi-critères. La m
 Potential of crowdsourced data for integrating landmarks and routes for rescue in mountain areas, 
 International Journal of Cartography, 5:2-3, 195-213, DOI: 10.1080/23729333.2019.1615730 
 
-
-
+**Sources et versions des données**:
 
 | Données          | Date du téléchargement ou création | Source  |
 | -----------------| ---------------------------------- | -------- |
