@@ -137,8 +137,7 @@ Ca y est, maintenant la base est prête à être chargée.
 Le plus rapide et le plus simple est d’installer GeoGraph 1.0 à partir du fichier dump dès que la base de données est installée:
 _dump/gg-1-0-neo4j-2021-10-27T074642.dump_
 
-Pour des raisons d'espace autorisé sur github (100Mo), certaines données (lignes électriques et pylones) 
-ont été supprimées du dump.
+Pour des raisons d'espace autorisé sur github (100Mo), certaines données ont été supprimées du dump.
 
 # Affichage
 
