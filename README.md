@@ -118,14 +118,14 @@ ont été supprimées du dump.
 
 ## Affichage de GeoGraph 1.0 dans QGis
 
-Le script _QgisQueryGeoGraph.py_ permet d'afficher des résultats de requête cypher dans QGis 
+Le script _python/QgisQueryGeoGraph.py_ permet d'afficher des résultats de requête cypher dans QGis 
 en tant que couche de données spatiales. Le script n'est pas robuste, il s'adresse aux personnes 
 qui savent modifier du python.
 
 
 ## Affichage de GeoGraph 1.0 dans Browser
 
-Dans le browser Neo4j il suffit de glisser et déposer le fichier _GeoGraph.2.0.grass_ dans le browser Neo4j, 
+Dans le browser Neo4j il suffit de glisser et déposer le fichier _style/GeoGraph.2.0.grass_ dans le browser Neo4j, 
 pour retrouver le style (couleurs, taille. . . ) des noeuds utilisés dans le papier à l'ICC.
 
 
