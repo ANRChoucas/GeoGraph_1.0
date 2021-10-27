@@ -1,6 +1,6 @@
 # GeoGraph 1.0
 
-# _Développements et contribution_
+# Développements et contribution
 
 - Licence du contenu du dépôt git: [CC BY-ND 4.0](LICENSE)
 
