@@ -1,0 +1,138 @@
+node {
+  diameter: 80px;
+  color: #A5ABB6;
+  border-color: #9AA1AC;
+  border-width: 2px;
+  text-color-internal: #FFFFFF;
+  font-size: 10px;
+  defaultCaption: "<id>";
+  caption: "{name}";
+}
+relationship {
+  color: #A5ABB6;
+  shaft-width: 1px;
+  font-size: 8px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+node.* {
+  color: #A5ABB6;
+  border-color: #9AA1AC;
+  text-color-internal: #FFFFFF;
+  caption: {name};
+  defaultCaption: "<id>";
+  defaultCaption: {name};
+}
+node.ClassOOR {
+  color: #569480;
+  border-color: #447666;
+  text-color-internal: #FFFFFF;
+  diameter: 80px;
+  caption: "{prefLabelFr}";
+}
+node.AltLabelEn {
+  color: #B9F2BE;
+  border-color: #5db665;
+  text-color-internal: #2A2C34;
+}
+node.AltLabelFr {
+  color: #8DCC93;
+  border-color: #5db665;
+  text-color-internal: #2A2C34;
+}
+node.ClassSelection {
+  caption: "{name}";
+  color: #604A0E;
+  border-color: #423204;
+  text-color-internal: #FFFFFF;
+}
+
+node.ObjetRepère {
+  defaultCaption: "<id>";
+  color: #4C8EDA;
+  border-width: 4px;
+  border-color: #2870c2;
+  text-color-internal: #FFFFFF;
+}
+node.Toponyme {
+  color: #C990C0;
+  border-color: #b261a5;
+  border-width: 4px;
+  text-color-internal: #FFFFFF;
+}
+
+node.geom {
+  color: #F79767;
+  caption: "{WKT}";
+}
+node.buffer {
+  caption: "{WKT}";
+  color: #F79767;
+  border-color: #f36924;
+  text-color-internal: #FFFFFF;
+}
+node.ITI {
+  diameter: 100px;
+  color:#DA7194;
+}
+node.Commune {
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+}
+node.Massif {
+  color: #D9C8AE;
+  border-color: #c0a378;
+  text-color-internal: #2A2C34;
+}
+node.ElectricLine {
+  color: #848484;
+}
+node.Pylon {
+  color: #545353;
+}
+
+node.DetailHydro {
+  color: #57C7E3;
+}
+node.CoursEau {
+  color: #57C7E3;
+}
+node.SurfaceHydro {
+  color: #57C7E3;
+}
+node.PlanEau {
+  color: #57C7E3;
+}
+node.EquipementTransport {
+  color: #CB9C55;
+}
+node.RouteNommée {
+  color: #CB9C55;
+}
+node.VoieNommée {
+  color: #CB9C55;
+}
+node.TronçonRout {
+  color: #CB9C55;
+}
+node.Batiment {
+  color: #ABA49A;
+}
+node.Construction {
+  color: #ABA49A;
+}
+node.ZoneActivitéIntérêt {
+  color: #ABA49A;
+}
+node.ZoneHabitation {
+  color: #ABA49A;
+}
+
+node.Nymie {
+  color: #ECB5C9;
+  border-color: #da7298;
+  text-color-internal: #2A2C34;
+}
