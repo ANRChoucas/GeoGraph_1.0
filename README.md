@@ -66,7 +66,7 @@ International Journal of Cartography, 5:2-3, 195-213, DOI: 10.1080/23729333.2019
 
 | Données          | Date du téléchargement | Source  |
 | -----------------| -----------------------| -------- |
-| projet CHOUCAS   | 2018       | Interne   |
+| projet CHOUCAS   | 2018       | http://choucas.ign.fr/   |
 | BDTOPO           | 2021       | https://www.data.gouv.fr/fr/datasets/bd-topo-r/ |
 | Camptocamp       | 2021       | https://www.camptocamp.org/ |
 | Rando.Ecrins     | 2018       | https://rando.ecrins-parcnational.fr/ |
