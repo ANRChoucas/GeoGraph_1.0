@@ -6,7 +6,7 @@
 
 - Copyright (C) 2021 Institut National de l'Information Géographique et Forestière 
 
-- Ce travail a été réalisé dans le cadre du projet CHOUCAS, projet financé par l’ANR.
+- Ce travail a été réalisé dans le cadre du projet CHOUCAS (ANR-16-CE23-0018), projet financé par l’ANR.
 Pour de plus amples information [Site web](http://choucas.ign.fr/) 
 
 - Contributeur: Véronique Gendner
