@@ -47,14 +47,14 @@ de la zone d'étude du projet CHOUCAS. Elles ont été téléchargées, traitée
 
 **Quels traitements ?**
 
-Les itinéraires téléchargés des sources de Rando.ecrins, Rando.Vercors, Visorando et Camptocamp
-ont été recalés sur le réseau de la BDTOPO afin de construire un réseau d'itinéraires (voir [1]). 
-C'est la géométrie des tronçons qui a été intégrée dans la base.
-
 Les toponymes ont été intégrés tels que renseignés dans les sources. Leurs géométries ont été transformées en WGS84.
 
 La détection des liens d'appariement des objets de repères des différentes sources de données 
 ont été réalisés grâce à un algorithme d'appariement multi-critères. Les résultats sont détaillés dans [1].
+
+Les itinéraires téléchargés des sources de Rando.ecrins, Rando.Vercors, Visorando et Camptocamp
+ont été recalés sur le réseau de la BDTOPO afin de construire un réseau d'itinéraires (voir [1]). 
+C'est la géométrie des tronçons qui a été intégrée dans la base.
 
 **Biblio:**
 
