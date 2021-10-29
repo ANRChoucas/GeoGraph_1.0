@@ -54,7 +54,7 @@ C'est la géométrie des tronçons qui a été intégrée dans la base.
 Les toponymes ont été intégrés tels que renseignés dans les sources. Leurs géométries ont été transformées en WGS84.
 
 La détection des liens d'appariement des objets de repères des différentes sources de données 
-ont été réalisés grâce à un algorithme d'appariement multi-critères. La méthode et les résultats sont détaillés dans [1].
+ont été réalisés grâce à un algorithme d'appariement multi-critères. Les résultats sont détaillés dans [1].
 
 **Biblio:**
 
