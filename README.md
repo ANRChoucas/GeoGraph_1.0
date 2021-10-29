@@ -2,7 +2,7 @@
 
 # Développements et contribution
 
-- Licence du contenu du dépôt git: [CC BY-ND 4.0](LICENSE)
+- Licence du contenu du dépôt git: [CC BY-ND 4.0](LICENSE), [creativecommons.org](https://creativecommons.org/licenses/by-nd/4.0/deed.fr)
 
 - Copyright (C) 2021 Institut National de l'Information Géographique et Forestière 
 
