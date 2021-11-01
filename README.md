@@ -26,10 +26,9 @@ l’existence des applications de géolocalisation. Le projet [CHOUCAS](http://c
 financé par l’Agence Nationale de la Recherche, vise à améliorer le temps de recherche des victimes 
 en proposant des méthodes et outils innovants. 
 
-Les principaux objectifs de ce travail a été la mise en place d'une base graphe avec [Neo4j](https://neo4j.com/) 
-et de proposer une méthode d’intégration sémantique de données géographiques multi-sources dans la base de données.
+GeoGraph 1.0 est une base graphe réalisée avec [Neo4j](https://neo4j.com/) et qui a permis l’intégration de données géographiques multi-sources.
 
-L'intégration s'appuie sur une ontologie des objets géographiques pouvant servir d'objets de référence, 
+L'intégration s'appuie sur une ontologie des objets géographiques pouvant servir d'objets de repères, 
 l'ontologie des objets de repères [OOR](http://choucas.ign.fr/doc/ontologies/index-fr.html). 
 Pour y arriver, un travail d’appariement des schémas des différentes sources de données sur l’ontologie des objets 
 de repère a été réalisée.
@@ -50,7 +49,7 @@ de la zone d'étude du projet CHOUCAS. Elles ont été téléchargées, traitée
 Les toponymes ont été intégrés tels que renseignés dans les sources. Leurs géométries ont été transformées en WGS84.
 
 La détection des liens d'appariement des objets de repères des différentes sources de données 
-ont été réalisés grâce à un algorithme d'appariement multi-critères. Les résultats sont détaillés dans [1].
+a été réalisée grâce à un algorithme d'appariement multi-critères. Les résultats sont détaillés dans [1].
 
 Les itinéraires téléchargés des sources de Rando.ecrins, Rando.Vercors, Visorando et Camptocamp
 ont été recalés sur le réseau de la BDTOPO afin de construire un réseau d'itinéraires (voir [1]). 
