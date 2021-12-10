@@ -3,7 +3,7 @@
 # Développements et contribution
 
 - Licence du contenu du dépôt git: [CC BY-ND 4.0](LICENSE)
-- Licence de la base de données GeoGraph 1.0: [CC BY SA version 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+- **Licence de la base de données GeoGraph 1.0: [CC BY SA version 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)**
 
 - Copyright (C) 2021 Institut National de l'Information Géographique et Forestière 
 
