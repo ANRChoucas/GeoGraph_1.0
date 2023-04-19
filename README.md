@@ -10,7 +10,7 @@
 - Ce travail a été réalisé dans le cadre du projet CHOUCAS (ANR-16-CE23-0018), projet financé par l’ANR.
 Pour de plus amples information [Site web](http://choucas.ign.fr/) 
 
-- Contributeur: Véronique Gendner
+- Contributeur: Véronique Gendner. Visit this blog to learn more: [GeoGraph : Normalized Categorization of Multisource Geolocated Data](http://www.e-tissage.net/geoGraph/) 
 
 # Plan
 - [Introduction](#Introduction)
